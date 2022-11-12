@@ -1,6 +1,20 @@
 (function ($) {
   "use strict";
 
+  $('#menu-about').click(
+    function(e) {
+      $.ajax({
+        url:'about.html',
+        type:'GET',
+        crossDomain: false,
+        success: function(data){
+            $('.page-wrapper').html(data);
+            loadCarrousel();
+        }
+     });
+    }
+  );
+
   if ($('.main-slider-two__img').length) {
     $('.main-slider-two__img').tilt({
       maxTilt: 5,
@@ -175,77 +189,80 @@
     });
   }
 
+  var loadCarrousel = function () {
+    // Testimonial One Carousel
+    if ($(".testimonial-one__carousel").length) {
+      $(".testimonial-one__carousel").owlCarousel({
+        loop: true,
+        margin: 30,
+        nav: false,
+        smartSpeed: 500,
+        autoHeight: false,
+        autoplay: true,
+        dots: false,
+        autoplayTimeout: 10000,
+        navText: [
+          '<span class="icon-right-arrow left"></span>',
+          '<span class="icon-right-arrow"></span>',
+        ],
+        responsive: {
+          0: {
+            items: 1,
+          },
+          600: {
+            items: 1,
+          },
+          800: {
+            items: 2,
+          },
+          1024: {
+            items: 2,
+          },
+          1200: {
+            items: 3,
+          },
+        },
+      });
+    }
 
-  // Testimonial One Carousel
-  if ($(".testimonial-one__carousel").length) {
-    $(".testimonial-one__carousel").owlCarousel({
-      loop: true,
-      margin: 30,
-      nav: false,
-      smartSpeed: 500,
-      autoHeight: false,
-      autoplay: true,
-      dots: false,
-      autoplayTimeout: 10000,
-      navText: [
-        '<span class="icon-right-arrow left"></span>',
-        '<span class="icon-right-arrow"></span>',
-      ],
-      responsive: {
-        0: {
-          items: 1,
+
+    // Testimonial Two Carousel
+    if ($(".testimonial-two__carousel").length) {
+      $(".testimonial-two__carousel").owlCarousel({
+        loop: true,
+        margin: 30,
+        nav: true,
+        smartSpeed: 500,
+        autoHeight: false,
+        autoplay: true,
+        dots: false,
+        autoplayTimeout: 10000,
+        navText: [
+          '<span class="icon-arrow-left"></span>',
+          '<span class="icon-arrow-right"></span>',
+        ],
+        responsive: {
+          0: {
+            items: 1,
+          },
+          600: {
+            items: 1,
+          },
+          800: {
+            items: 1,
+          },
+          1024: {
+            items: 1,
+          },
+          1200: {
+            items: 1,
+          },
         },
-        600: {
-          items: 1,
-        },
-        800: {
-          items: 2,
-        },
-        1024: {
-          items: 2,
-        },
-        1200: {
-          items: 3,
-        },
-      },
-    });
+      });
+    }
   }
 
-
-  // Testimonial One Carousel
-  if ($(".testimonial-two__carousel").length) {
-    $(".testimonial-two__carousel").owlCarousel({
-      loop: true,
-      margin: 30,
-      nav: true,
-      smartSpeed: 500,
-      autoHeight: false,
-      autoplay: true,
-      dots: false,
-      autoplayTimeout: 10000,
-      navText: [
-        '<span class="icon-arrow-left"></span>',
-        '<span class="icon-arrow-right"></span>',
-      ],
-      responsive: {
-        0: {
-          items: 1,
-        },
-        600: {
-          items: 1,
-        },
-        800: {
-          items: 1,
-        },
-        1024: {
-          items: 1,
-        },
-        1200: {
-          items: 1,
-        },
-      },
-    });
-  }
+  loadCarrousel();
 
 
   if ($(".scroll-to-target").length) {
