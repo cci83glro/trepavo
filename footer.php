@@ -43,7 +43,7 @@
                             <div class="footer-widget__column footer-widget__links clearfix">
                                 <h3 class="footer-widget__title">Links</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
-                                    <li><a href="services.php">Our Services</a></li>
+                                    <li><a href="services">Our Services</a></li>
                                     <li><a href="team.html">Meet Our Team</a></li>
                                     <li><a href="project.html">Our Portfolio</a></li>
                                     <li><a href="contact.html">Contact</a></li>
@@ -180,6 +180,7 @@
     <script src="assets/vendors/jquery-tilt/tilt.jquery.min.js"></script>
     <!-- template js -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/cookies.js"></script>
 </body>
 
 </html>

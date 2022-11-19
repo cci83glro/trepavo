@@ -53,31 +53,31 @@
         <nav class="main-menu clearfix">
             <div class="main-menu-wrapper">
                 <div class="main-menu-wrapper__logo">
-                    <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                    <a href="/"><img src="assets/images/resources/logo-1.png" alt=""></a>
                 </div>
                 <div class="main-menu-wrapper__main-menu">
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                     <ul class="main-menu__list">
                         <li class="dropdown">
-                            <a href="index.php" type="Home">Home</a>
+                            <a href="/" type="Home">Home</a>
                         </li>
                         <li class="dropdown">
-                            <a href="about.php" type="About">About</a>
+                            <a href="about" type="About">About</a>
                         </li>
                         <li class="dropdown">
-                            <a href="services.php" type="Services">Services</a>
+                            <a href="services" type="Services">Services</a>
                             <ul>
-                                <li><a href="services.php">Services</a></li>
-                                <li><a href="mobile-application.html">Mobile Application</a></li>
-                                <li><a href="digital-marketing.html">Digital Marketing</a></li>
-                                <li><a href="graphic-designing.html">Graphic Designing</a></li>
-                                <li><a href="website-development.html">Website Development</a></li>
-                                <li><a href="social-marketing.html">Social Marketing</a></li>
-                                <li><a href="content-writing.html">Content Writting</a></li>
+                                <li><a href="services">Services</a></li>
+                                <li><a href="mobile-application">Mobile Application</a></li>
+                                <li><a href="digital-marketing">Digital Marketing</a></li>
+                                <li><a href="graphic-designing">Graphic Designing</a></li>
+                                <li><a href="website-development">Website Development</a></li>
+                                <li><a href="social-marketing">Social Marketing</a></li>
+                                <li><a href="content-writing">Content Writting</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="projects.php" type="Projects">Projects</a>
+                            <a href="projects" type="Projects">Projects</a>
                         </li>
                         <!--li class="dropdown">
                             <a href="#">Blog</a>
@@ -87,7 +87,7 @@
                                 <li><a href="blog-details.html">Blog Details</a></li>
                             </ul>
                         </li-->
-                        <li><a href="contact.php" type="Contact">Contact</a></li>
+                        <li><a href="contact" type="Contact">Contact</a></li>
                     </ul>
                 </div>
                 <div class="main-menu-wrapper__right">
