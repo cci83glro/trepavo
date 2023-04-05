@@ -406,6 +406,16 @@
     }
   }
 
+  function dynamicLanguageMenuClass(selector) {
+    let activeLanguage = $(selector).closest("body")[0].getAttribute("data-language");
+    selector.find("li").each(function () {
+      let anchor = $(this).find("a");
+      if ($(anchor).attr("data-lang") == activeLanguage) {
+        $(this).addClass("current");
+      }
+    });
+  }
+
   if ($(".main-menu__list").length) {
     // dynamic current class
     let mainNavUL = $(".main-menu__list");
@@ -416,6 +426,11 @@
     // dynamic current class
     let mainNavUL = $(".service-details__sidebar-service-list");
     dynamicCurrentMenuClass(mainNavUL);
+  }
+
+  if ($(".languages__list").length) {
+    let languagesUL = $(".languages__list");
+    dynamicLanguageMenuClass(languagesUL);
   }
 
   if ($(".main-menu__list").length && $(".mobile-nav__container").length) {

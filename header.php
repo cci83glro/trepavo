@@ -48,7 +48,7 @@
     <link rel="stylesheet" href="assets/css/main-responsive.css" />
 </head>
 
-<body>
+<body data-language="<?php echo $_SESSION['lang']; ?>">
     <div class="preloader">
         <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
     </div>
@@ -96,10 +96,10 @@
                 <div class="main-menu-wrapper__right">
                 <ul class="languages__list">
                         <li>
-                            <a href="index?lang=en" type="en"><?php echo $lang['lang_en'] ?></a>
+                            <a href="index?lang=en" data-lang="en"><?php echo $lang['lang_en'] ?></a>
                         </li>
                         <li>
-                            <a href="index?lang=da" type="da"><?php echo $lang['lang_da'] ?></a>
+                            <a href="index?lang=da" data-lang="da"><?php echo $lang['lang_da'] ?></a>
                         </li>
                     </ul>
                     <div class="main-menu-wrapper__call">

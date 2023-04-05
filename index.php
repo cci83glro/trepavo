@@ -26,16 +26,15 @@
                         </div>
                         <!-- /.image-layer -->
                         <div class="main-slider__social">
-                            <a href="https://www.facebook.com/trepavocreativeagency">facebook</a>
-
-                            <a href="https://www.instagram.com/trepavocreativeagency/">instagram</a>
+                            <a href="https://www.facebook.com/trepavocreativeagency" target="_blank">facebook</a>
+                            <a href="https://www.instagram.com/trepavocreativeagency/" target="_blank">instagram</a>
                         </div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
                                         <div class="main-slider__title-box-1">
-                                            <h2>DEDICATED TO BRANDS WITH attitude</h2>
+                                            <h2>Dedicated to brands with attitude</h2>
                                             <div class="main-slider__title-box-2">
                                                 <h2>Creative <br> Talent <br> Here</h2>
                                             </div>
