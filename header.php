@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home One || Mibooz || Mibooz HTML Template For Business</title>
+    <title>Home | Trepavo</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Mibooz HTML Template For Business" />
+    <meta name="description" content="Trepavo HTML Template For Business" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -59,12 +59,12 @@
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                     <ul class="main-menu__list">
                         <li class="dropdown">
-                            <a href="/" type="Home">Home</a>
+                            <a href="index" type="Home">Home</a>
                         </li>
                         <li class="dropdown">
                             <a href="about" type="About">About</a>
                         </li>
-                        <li class="dropdown">
+                        <!--li class="dropdown">
                             <a href="services" type="Services">Services</a>
                             <ul>
                                 <li><a href="services">Services</a></li>
@@ -75,7 +75,7 @@
                                 <li><a href="social-marketing">Social Marketing</a></li>
                                 <li><a href="content-writing">Content Writting</a></li>
                             </ul>
-                        </li>
+                        </li-->
                         <li class="dropdown">
                             <a href="projects" type="Projects">Projects</a>
                         </li>

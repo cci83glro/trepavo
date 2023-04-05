@@ -23,9 +23,9 @@
                         </div>
                         <!-- /.image-layer -->
                         <div class="main-slider__social">
-                            <a href="#">facebook</a>
+                            <a href="https://www.facebook.com/trepavocreativeagency">facebook</a>
 
-                            <a href="#">instagram</a>
+                            <a href="https://www.instagram.com/trepavocreativeagency/">instagram</a>
                         </div>
                         <div class="container">
                             <div class="row">
@@ -49,9 +49,9 @@
                         </div>
                         <!-- /.image-layer -->
                         <div class="main-slider__social">
-                            <a href="#">facebook</a>
+                            <a href="https://www.facebook.com/trepavocreativeagency">facebook</a>
 
-                            <a href="#">instagram</a>
+                            <a href="https://www.instagram.com/trepavocreativeagency/">instagram</a>
                         </div>
                         <div class="container">
                             <div class="row">
@@ -76,16 +76,16 @@
                         </div>
                         <!-- /.image-layer -->
                         <div class="main-slider__social">
-                            <a href="#">facebook</a>
+                            <a href="https://www.facebook.com/trepavocreativeagency">facebook</a>
 
-                            <a href="#">instagram</a>
+                            <a href="https://www.instagram.com/trepavocreativeagency/">instagram</a>
                         </div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
                                         <div class="main-slider__title-box-1">
-                                            <h2>We build <br> Together <br> Your Brand</h2>
+                                            <h2>We build <br> Your Brand <br> Together</h2>
                                             <div class="main-slider__title-box-2">
                                                 <h2>We build <br> Together <br> Your Brand</h2>
                                             </div>
@@ -130,9 +130,7 @@
                         </div>
                         <div class="col-xl-5 col-lg-6">
                             <div class="services-one__top-right">
-                                <p class="services-one__top-text">We are committed to providing our customers with not
-                                    service while offering our emod tempor incididunt ut labore employees the best
-                                    training.</p>
+                                <p class="services-one__top-text">We never take the road of " sufficency", we always strive for the best.</p>
                             </div>
                         </div>
                     </div>
@@ -229,8 +227,7 @@
                                         <span class="icon-conversation"></span>
                                     </div>
                                     <div class="welcome-one__experience-content">
-                                        <h3 class="welcome-one__experience-title"><span>40</span> Years of<br> Working
-                                            Experience</h3>
+                                        <h3 class="welcome-one__experience-title"><span>Our customers'</span> success<br> is also our success</h3>
                                     </div>
                                 </div>
                             </div>
@@ -239,24 +236,23 @@
                     <div class="col-xl-6">
                         <div class="welcome-one__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">Our introductions</span>
-                                <h2 class="section-title__title">A leading web & software company</h2>
+                                <span class="section-title__tagline">Our web approach</span>
+                                <h2 class="section-title__title">Integrated web solutions</h2>
                             </div>
-                            <p class="welcome-one__right-text">There are many variations of passages of lorem ipsum
-                                available, but the majority have suffered in some form, by injected humour.</p>
+                            <p class="welcome-one__right-text">We offer complete web solutions, personalised for each of our clients' business profile.</p>
                             <div class="welcome-one__bottom">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6 col-md-6">
                                         <div class="welcome-one__bottom-left">
-                                            <h4 class="welcome-one__bottom-title">providing innovative <br> Website
-                                                solutions <br> for future.</h4>
+                                            <h4 class="welcome-one__bottom-title">providing efficient <br> website
+                                                solutions <br> for your success.</h4>
                                             <ul class="list-unstyled welcome-one__points">
                                                 <li>
                                                     <div class="icon">
                                                         <span class="icon-tick"></span>
                                                     </div>
                                                     <div class="text">
-                                                        <p>Nsectetur cing elit</p>
+                                                        <p>Cooperation</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -264,7 +260,7 @@
                                                         <span class="icon-tick"></span>
                                                     </div>
                                                     <div class="text">
-                                                        <p>Suspe ndisse suscipit sagittis leo</p>
+                                                        <p>Dialog</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -272,7 +268,7 @@
                                                         <span class="icon-tick"></span>
                                                     </div>
                                                     <div class="text">
-                                                        <p> Entum estib dignissim posuere</p>
+                                                        <p>Availability</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -280,7 +276,7 @@
                                                         <span class="icon-tick"></span>
                                                     </div>
                                                     <div class="text">
-                                                        <p>If you are going to use a pass</p>
+                                                        <p>Innovation</p>
                                                     </div>
                                                 </li>
                                             </ul>
@@ -290,7 +286,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="welcome-one__person-sign">
-                                                    <h3>J. Albert</h3>
+                                                    <h3>Andreea</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -301,9 +297,9 @@
                                                 <div class="welcome-one__bottom-right-icon">
                                                     <span class="icon-help"></span>
                                                 </div>
-                                                <h4 class="welcome-one__bottom-right-title">How Can mibooz Help Your
-                                                    business to grow</h4>
-                                                <a href="about.html" class="thm-btn welcome-one__btn">read more</a>
+                                                <h4 class="welcome-one__bottom-right-title">How Can We Help Your
+                                                    Business To Grow</h4>
+                                                <a href="about" class="thm-btn welcome-one__btn">read more</a>
                                             </div>
                                         </div>
                                     </div>
@@ -419,8 +415,7 @@
                             </div>
                             <div class="we-care__content">
                                 <h3 class="we-care__title">We Care About Business Growths</h3>
-                                <p class="we-care__text">There are many variations of passages of Lorem Ipsum available,
-                                    but the majority have suffered.</p>
+                                <p class="we-care__text">Behind a successful brand there is always a team that strives to achieve the best. </p>
                             </div>
                         </div>
                     </div>
@@ -442,8 +437,8 @@
                             <li data-filter=".filter-item" class="active"><span class="filter-text">All</span></li>
                             <li data-filter=".bra"><span class="filter-text">Branding</span></li>
                             <li data-filter=".photo"><span class="filter-text">Photography</span></li>
+                            <li data-filter=".some"><span class="filter-text">Social Media</span></li>
                             <li data-filter=".web"><span class="filter-text">Web Design</span></li>
-                            <li data-filter=".app"><span class="filter-text last-pd-none">Apps</span></li>
                         </ul>
                     </div>
                 </div>
@@ -455,7 +450,7 @@
                                 <img src="assets/images/resources/project-one-img-1.jpg" alt="">
                                 <div class="project-one__hover">
                                     <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
+                                    <h3 class="project-one__title"><a href="project-details.html">Outdoor</a>
                                     </h3>
                                 </div>
                             </div>
@@ -468,7 +463,7 @@
                                 <img src="assets/images/resources/project-one-img-2.jpg" alt="">
                                 <div class="project-one__hover">
                                     <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
+                                    <h3 class="project-one__title"><a href="project-details.html">Outdoor</a>
                                     </h3>
                                 </div>
                             </div>
@@ -481,7 +476,7 @@
                                 <img src="assets/images/resources/project-one-img-3.jpg" alt="">
                                 <div class="project-one__hover">
                                     <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
+                                    <h3 class="project-one__title"><a href="project-details.html">Logo Design</a>
                                     </h3>
                                 </div>
                             </div>
@@ -493,8 +488,8 @@
                             <div class="project-one__img">
                                 <img src="assets/images/resources/project-one-img-4.jpg" alt="">
                                 <div class="project-one__hover">
-                                    <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
+                                    <p class="project-one__tagline">Photography</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Portrait Photography</a>
                                     </h3>
                                 </div>
                             </div>
@@ -507,7 +502,20 @@
                                 <img src="assets/images/resources/project-one-img-5.jpg" alt="">
                                 <div class="project-one__hover">
                                     <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
+                                    <h3 class="project-one__title"><a href="project-details.html">Business card</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item app some photo">
+                        <!--Portfolio One Single-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/resources/project-one-img-6.jpg" alt="">
+                                <div class="project-one__hover">
+                                    <p class="project-one__tagline">Social Media</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Video ad</a>
                                     </h3>
                                 </div>
                             </div>
@@ -517,23 +525,10 @@
                         <!--Portfolio One Single-->
                         <div class="project-one__single">
                             <div class="project-one__img">
-                                <img src="assets/images/resources/project-one-img-6.jpg" alt="">
+                                <img src="assets/images/resources/project-one-img-7.jpg" alt="">
                                 <div class="project-one__hover">
-                                    <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item app photo">
-                        <!--Portfolio One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-one-img-6.jpg" alt="">
-                                <div class="project-one__hover">
-                                    <p class="project-one__tagline">Graphic</p>
-                                    <h3 class="project-one__title"><a href="project-details.html">Fimlor Experience</a>
+                                    <p class="project-one__tagline">Photography</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Portrait photography</a>
                                     </h3>
                                 </div>
                             </div>
@@ -588,7 +583,7 @@
                         <div class="why-choose-one__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">why choose us</span>
-                                <h2 class="section-title__title">We do more then ever platform</h2>
+                                <h2 class="section-title__title">We add value to your brand</h2>
                             </div>
                             <p class="why-choose-one__right-text">There are many variations of passages of lorem ipsum
                                 available, but the majority have suffered in some form, by injected free text not
@@ -666,7 +661,7 @@
                             <!--Testimonial One Single-->
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__content">
-                                    <p class="testimonial-one__text">I was very impresed by the mibooz service and their
+                                    <p class="testimonial-one__text">I was very impresed by the trepavo service and their
                                         work of quality lorem ipsum is simply free text used by copy typing refreshing.
                                         Neque porro est qui ipsum.</p>
                                 </div>
@@ -681,7 +676,7 @@
                             <!--Testimonial One Single-->
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__content">
-                                    <p class="testimonial-one__text">I was very impresed by the mibooz service and their
+                                    <p class="testimonial-one__text">I was very impresed by the trepavo service and their
                                         work of quality lorem ipsum is simply free text used by copy typing refreshing.
                                         Neque porro est qui ipsum.</p>
                                 </div>
@@ -696,7 +691,7 @@
                             <!--Testimonial One Single-->
                             <div class="testimonial-one__single">
                                 <div class="testimonial-one__content">
-                                    <p class="testimonial-one__text">I was very impresed by the mibooz service and their
+                                    <p class="testimonial-one__text">I was very impresed by the trepavo service and their
                                         work of quality lorem ipsum is simply free text used by copy typing refreshing.
                                         Neque porro est qui ipsum.</p>
                                 </div>

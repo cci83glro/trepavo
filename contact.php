@@ -2,13 +2,13 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-contact.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
-                        <li>Contact</li>
+                      
                     </ul>
                     <h2>Contact</h2>
                 </div>
@@ -18,44 +18,45 @@
 
         <!--Location Start-->
         <section class="location">
-           <div class="location-shape" style="background-image: url(assets/images/shapes/location-shape.png)"></div>
+           <div class="location-shape" style="background-image: url(assets/images/shape/location-shape.png)"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-4 col-lg-4">
                        <!--Location Single-->
                         <div class="location__single">
                             <h3 class="location__title">about</h3>
-                            <p class="location__text">Lorem ipsum dolor sit amet is adipiscing elit. Ut elit tellus, luctus nec mattis.</p>
+                            <p class="location__text">Let`s take your business to the next level!</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-xl-4 col-lg-4">
+                       <!--Location Single-->
+                        <div class="location__single location__single-last">
+                            <h3 class="location__title">contact</h3>
+                            <h5 class="location__phone-email">
+                                <a href="tel:926668880000" class="location__phone">+45 60 54 30 77</a>
+                                <a href="mailto:needhelp@company.com" class="location__email">info@trepavo.com</a>
+                            </h5>
+                            <div class="location__social">
+                              
+                                <a href="https://www.facebook.com/trepavocreativeagency"><i class="fab fa-facebook"></i></a>
+                            
+                                <a href="https://www.instagram.com/trepavocreativeagency/"><i class="fab fa-instagram"></i></a>
+                            </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
                        <!--Location Single-->
                         <div class="location__single">
                             <h3 class="location__title">address</h3>
-                            <p class="location__text">86 Road Broklyn Street 600. New York M68036. United States of America</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4">
-                       <!--Location Single-->
-                        <div class="location__single location__single-last">
-                            <h3 class="location__title">contact</h3>
-                            <h5 class="location__phone-email">
-                                <a href="tel:926668880000" class="location__phone">+ 92 666 888 0000</a>
-                                <a href="mailto:needhelp@company.com" class="location__email">needhelp@company.com</a>
-                            </h5>
-                            <div class="location__social">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
+                            <p class="location__text">Tjørnevangen 1, 2660 Brøndby Strand, Copenhagen, DK </p>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="location__bottom">
-                            <p class="location-bottom__text">Mibooz services built specifically for your business. <a href="about.html">Find Your Solution</a></p>
+                            <p class="location-bottom__text">Trepavo Creative Agency dedicated to business with personality! <a href="about.html">Find Your Solution</a></p>
                         </div>
                     </div>
                 </div>
@@ -115,10 +116,11 @@
         <!--Google Map Start-->
         <section class="contcat-page-google-map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="contact-page-google-map__one" allowfullscreen></iframe>
+               src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4506.107550099154!2d12.423975!3d55.618480000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465256f5545f2475%3A0x8c00df4dc176c692!2sTj%C3%B8rnevangen%201%2C%202660%20Br%C3%B8ndby%20Strand!5e0!3m2!1sen!2sdk!4v1674411280383!5m2!1sen!2sdk" width="2000" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+               
 
         </section>
         <!--Google Map End-->
 
 <?php include "footer.php" ?>
+  

@@ -183,8 +183,8 @@
                                             <img src="assets/images/testimonial/testimonial-one-img-2.jpg" alt="">
                                         </div>
                                         <div class="testimonial-two__client-details">
-                                            <h4 class="testimonial-two__client-name">kevin martin</h4>
-                                            <p class="testimonial-two__client-title">Customer</p>
+                                            <h4 class="testimonial-two__client-name">Jan Poulsen</h4>
+                                            <p class="testimonial-two__client-title">Ejer Centrumfoto</p>
                                         </div>
                                     </div>
                                 </div>
@@ -198,8 +198,8 @@
                                             <img src="assets/images/testimonial/testimonial-one-img-1.jpg" alt="">
                                         </div>
                                         <div class="testimonial-two__client-details">
-                                            <h4 class="testimonial-two__client-name">Jessica Brown</h4>
-                                            <p class="testimonial-two__client-title">Customer</p>
+                                            <h4 class="testimonial-two__client-name">Zahide Tanirli Kayaalp</h4>
+                                            <p class="testimonial-two__client-title">Ejer Vestmentor</p>
                                         </div>
                                     </div>
                                 </div>
@@ -213,8 +213,8 @@
                                             <img src="assets/images/testimonial/testimonial-one-img-3.jpg" alt="">
                                         </div>
                                         <div class="testimonial-two__client-details">
-                                            <h4 class="testimonial-two__client-name">sarah rose</h4>
-                                            <p class="testimonial-two__client-title">Customer</p>
+                                            <h4 class="testimonial-two__client-name">Maria Mortensen</h4>
+                                            <p class="testimonial-two__client-title">Ejer Frisøren</p>
                                         </div>
                                     </div>
                                 </div>
@@ -228,8 +228,8 @@
                                             <img src="assets/images/testimonial/testimonial-one-img-2.jpg" alt="">
                                         </div>
                                         <div class="testimonial-two__client-details">
-                                            <h4 class="testimonial-two__client-name">kevin martin</h4>
-                                            <p class="testimonial-two__client-title">Customer</p>
+                                            <h4 class="testimonial-two__client-name">Jan Poulsen</h4>
+                                            <p class="testimonial-two__client-title">Ejer Centrumfoto</p>
                                         </div>
                                     </div>
                                 </div>
@@ -241,87 +241,6 @@
         </section>
         <!--Testimonial Two End-->
 
-        <!-- Team One Start-->
-        <section class="team-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">people behind it</span>
-                    <h2 class="section-title__title">meet the team</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <!--Team One Single-->
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-one-img-1.jpg" alt="">
-                                <div class="team-one__details">
-                                    <p class="team-one__title">Developer</p>
-                                    <h4 class="team-one__name">Sarah albert</h4>
-                                </div>
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <!--Team One Single-->
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-one-img-2.jpg" alt="">
-                                <div class="team-one__details">
-                                    <p class="team-one__title">Developer</p>
-                                    <h4 class="team-one__name">Sarah albert</h4>
-                                </div>
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
-                        <!--Team One Single-->
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-one-img-3.jpg" alt="">
-                                <div class="team-one__details">
-                                    <p class="team-one__title">Developer</p>
-                                    <h4 class="team-one__name">Sarah albert</h4>
-                                </div>
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="800ms">
-                        <!--Team One Single-->
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-one-img-4.jpg" alt="">
-                                <div class="team-one__details">
-                                    <p class="team-one__title">Developer</p>
-                                    <h4 class="team-one__name">Sarah albert</h4>
-                                </div>
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Team One End-->
-
         <!--Best Agency Start-->
         <section class="best-agency about-page-best-agency">
             <div class="best-agency-shape" style="background-image: url(assets/images/shapes/best-agency-shape.png)">
@@ -331,7 +250,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="best-agency__left">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">best creative agency</span>
+                                <span class="section-title__tagline">Your creative agency</span>
                                 <h2 class="section-title__title">Our Agency all soltutions</h2>
                             </div>
                             <ul class="list-unstyled best-agency__points">
@@ -357,8 +276,8 @@
                                     <span class="icon-social-media"></span>
                                 </div>
                                 <div class="best-agency__experience-text-box">
-                                    <p class="best-agency__experience-text">We have 30+ years of experiences for give
-                                        you <br> better quality results.</p>
+                                    <p class="best-agency__experience-text">We love to work closely toghether with our clients
+                                        for achiving the best results.</p>
                                 </div>
                             </div>
                         </div>
