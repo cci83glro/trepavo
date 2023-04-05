@@ -1,21 +1,24 @@
+<?php
+  $title = "Main - Trepavo Creative Agency";
+?>
 <?php include "header.php" ?>
 
         <!--Main Slider Start-->
         <section class="main-slider">
             <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
-    "effect": "fade",
-     "pagination": {
-        "el": "#main-slider-pagination",
-        "type": "bullets",
-        "clickable": true
-      },
-    "navigation": {
-        "nextEl": "#main-slider__swiper-button-next",
-        "prevEl": "#main-slider__swiper-button-prev"
-    },
-    "autoplay": {
-        "delay": 5000
-    }}'>
+                "effect": "fade",
+                "pagination": {
+                    "el": "#main-slider-pagination",
+                    "type": "bullets",
+                    "clickable": true
+                },
+                "navigation": {
+                    "nextEl": "#main-slider__swiper-button-next",
+                    "prevEl": "#main-slider__swiper-button-prev"
+                },
+                "autoplay": {
+                    "delay": 5000
+                }}'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="image-layer"
@@ -37,7 +40,7 @@
                                                 <h2>Creative <br> Talent <br> Here</h2>
                                             </div>
                                         </div>
-                                        <a href="about.html" class="thm-btn">Discover More</a>
+                                        <a href="about" class="thm-btn">Discover More</a>
                                     </div>
                                 </div>
                             </div>
@@ -63,7 +66,7 @@
                                                 <h2>Creative <br> Talent <br> Here</h2>
                                             </div>
                                         </div>
-                                        <a href="about.html" class="thm-btn">Discover More</a>
+                                        <a href="about" class="thm-btn">Discover More</a>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +93,7 @@
                                                 <h2>We build <br> Together <br> Your Brand</h2>
                                             </div>
                                         </div>
-                                        <a href="about.html" class="thm-btn">Discover More</a>
+                                        <a href="about" class="thm-btn">Discover More</a>
                                     </div>
                                 </div>
                             </div>
@@ -727,7 +730,7 @@
                                 </div>
                             </div>
                             <div class="cta-one__right">
-                                <a href="contact.html" class="thm-btn cta-one__btn">let’s get started</a>
+                                <a href="<?php echo $contact_link; ?>" class="thm-btn cta-one__btn"><?php echo $lang['letsGetStarted'] ?></a>
                             </div>
                         </div>
                     </div>

@@ -68,8 +68,8 @@
         <section class="contact-page">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">contact with us</span>
-                    <h2 class="section-title__title">have question?</h2>
+                    <span class="section-title__tagline">Eager to contact us?</span>
+                    <h2 class="section-title__title">Drop a message ...</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-12">

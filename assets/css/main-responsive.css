@@ -211,33 +211,7 @@
     .location__text {
         font-size: 15px;
     }
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Tablet Layout: 768px. */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -545,34 +519,7 @@
         margin-left: 0;
         margin-top: 30px;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
 
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
@@ -1190,28 +1137,7 @@
         position: relative;
         top: 20px;
     }
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1515px) {
     .project-two__work .project-one__hover {
@@ -1226,9 +1152,6 @@
     .project-two__work .project-one__tagline:before {
         left: -35px;
     }
-
-
-
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1435px) {
@@ -1237,8 +1160,6 @@
     .cta-two__box-2 {
         display: none;
     }
-
-
 }
 
 
@@ -1250,10 +1171,6 @@
     .about-page__right {
         margin-left: 50px;
     }
-
-
-
-
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1330px) {
@@ -1266,23 +1183,7 @@
         margin-left: -205px;
         margin-right: 0;
     }
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*--------------------------------------------------------------
 # Slider All Responsice Css
@@ -1291,11 +1192,7 @@
     .main-slider-two .main-slider__social {
         display: none;
     }
-
-
 }
-
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1475px) {
     .main-slider-two__content {
@@ -1319,11 +1216,7 @@
     .main-slider-three .main-slider__social {
         display: none;
     }
-
-
 }
-
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1640px) {
     .main-slider-three__img-1 {
@@ -1390,17 +1283,7 @@
     .slider-bottom-box {
         max-width: 960px;
     }
-
-
-
-
-
 }
-
-
-
-
-
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .main-slider-badge {
@@ -1450,20 +1333,7 @@
     .slider-bottom-box {
         max-width: 720px;
     }
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
 
 @media only screen and (max-width: 767px) {
     .main-slider-badge {
@@ -1561,40 +1431,18 @@
     .slider-bottom-box {
         max-width: 540px;
     }
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
 
 /*--------------------------------------------------------------
 # Main Menu All Responsice Css
 --------------------------------------------------------------*/
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
 
     .main-menu-wrapper__call {
         display: none;
     }
-
-
-
 }
-
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .main-menu-wrapper__main-menu {
@@ -1609,18 +1457,9 @@
     }
 
     .main-menu-two .mobile-nav__toggler:hover {
-        color: var(--mibooz-black);
+        color: var(--black-color);
     }
-
-
-
-
-
-
-
-
 }
-
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .main-menu-wrapper__main-menu {
@@ -1635,18 +1474,9 @@
     }
 
     .main-menu-two .mobile-nav__toggler:hover {
-        color: var(--mibooz-black);
+        color: var(--black-color);
     }
-
-
-
-
-
-
 }
-
-
-
 
 @media (max-width: 767px) {
     .main-menu-wrapper__right {
@@ -1664,16 +1494,12 @@
     }
 
     .main-menu-two .mobile-nav__toggler:hover {
-        color: var(--mibooz-black);
+        color: var(--black-color);
     }
-
 
     .main-menu {
         position: relative;
         padding: 0 30px;
         z-index: 91;
     }
-
-
-
 }
