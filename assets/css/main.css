@@ -205,7 +205,7 @@ ul {
 
 .section-title__title {
     margin: 0;
-    font-size: 50px;
+    font-size: 48px;
     line-height: 60px;
     text-transform: uppercase;
 }
@@ -515,7 +515,7 @@ ul {
 
 .main-menu .main-menu__list>li,
 .stricky-header .main-menu__list>li {
-    padding-top: 37px;
+    padding-top: 60px;
     padding-bottom: 37px;
     position: relative;
 }
@@ -549,7 +549,8 @@ ul {
     border-radius: 0px;
     background-color: var(--primary-color);
     position: absolute;
-    top: 18px;
+    /* top: 18px; */
+    bottom: 3px;
     left: -10px;
     right: -10px;
     transition: transform 500ms ease;
@@ -1392,7 +1393,7 @@ ul {
 
 .main-slider__social a:before {
     position: absolute;
-    top: 17px;
+    top: 30px;
     left: -10px;
     right: -10px;
     content: "";
@@ -1448,8 +1449,8 @@ ul {
 
 .main-slider .main-slider__title-box-2 {
     position: absolute;
-    top: 0;
-    left: -80px;
+    top: 40px;
+    left: 100px;
     right: 0;
     bottom: 0;
 }
@@ -2069,7 +2070,7 @@ ul {
 }
 
 .services-one__top-left .section-title__tagline {
-    color: #ffbdc8;
+    color: var(--base-color);
 }
 
 .services-one__top-left .section-title__title {
@@ -2083,7 +2084,7 @@ ul {
 }
 
 .services-one__top-text {
-    color: #ffbdc8;
+    color: var(--base-color);
     margin: 0;
 }
 
@@ -2140,9 +2141,10 @@ ul {
 }
 
 .services-one__title a {
+    padding: 2px 0;
     color: var(--black-color);
     transition: all 500ms linear;
-    background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0px 46% / 0px 1px no-repeat;
+    background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0px 100% / 0px 1px no-repeat;
 }
 
 .services-one__title a:hover {
@@ -2193,7 +2195,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 58px 60px 58px;
+    padding: 64px 60px;
     background-color: var(--black-color);
 }
 
@@ -2205,8 +2207,9 @@ ul {
 
 .services-one__view-all-title a {
     color: var(--base-color);
+    padding: 5px 0;
     transition: all 500ms ease;
-    background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0px 46% / 0px 1px no-repeat;
+    background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0px 100% / 0px 1px no-repeat;
 }
 
 .services-one__view-all-title a:hover {

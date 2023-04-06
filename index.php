@@ -1,7 +1,8 @@
 <?php
   $title = "Main - Trepavo Creative Agency";
+
 ?>
-<?php include "header.php" ?>
+<?php include_once "header.php" ?>
 
         <!--Main Slider Start-->
         <section class="main-slider">
@@ -19,27 +20,27 @@
                 "autoplay": {
                     "delay": 5000
                 }}'>
+                
                 <div class="swiper-wrapper">
+                    <div class="main-slider__social">
+                        <a href="https://www.facebook.com/trepavocreativeagency" target="_blank">facebook</a>
+                        <a href="https://www.instagram.com/trepavocreativeagency/" target="_blank">instagram</a>
+                    </div>
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);">
-                        </div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider__social">
-                            <a href="https://www.facebook.com/trepavocreativeagency" target="_blank">facebook</a>
-                            <a href="https://www.instagram.com/trepavocreativeagency/" target="_blank">instagram</a>
+                            style="background-image: url(assets/images/slider/main-slider-1_947_486.webp);">
                         </div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
                                         <div class="main-slider__title-box-1">
-                                            <h2>Dedicated to brands with attitude</h2>
+                                            <h2><?=$lang['slide1Title'] ?></h2>
                                             <div class="main-slider__title-box-2">
-                                                <h2>Creative <br> Talent <br> Here</h2>
+                                                <h2><?=$lang['slide1Title'] ?></h2>
                                             </div>
                                         </div>
-                                        <a href="about" class="thm-btn">Discover More</a>
+                                        <a href="about" class="thm-btn"><?=$lang['discoverMore'] ?></a>
                                     </div>
                                 </div>
                             </div>
@@ -47,25 +48,19 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);">
-                        </div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider__social">
-                            <a href="https://www.facebook.com/trepavocreativeagency">facebook</a>
-
-                            <a href="https://www.instagram.com/trepavocreativeagency/">instagram</a>
+                            style="background-image: url(assets/images/slider/main-slider-2_947_486.webp);">
                         </div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
                                         <div class="main-slider__title-box-1">
-                                            <h2>The creative minds behind your brand</h2>
+                                            <h2><?=$lang['slide2Title'] ?></h2>
                                             <div class="main-slider__title-box-2">
-                                                <h2>Creative <br> Talent <br> Here</h2>
+                                                <h2><?=$lang['slide2Title'] ?></h2>
                                             </div>
                                         </div>
-                                        <a href="about" class="thm-btn">Discover More</a>
+                                        <a href="about" class="thm-btn"><?=$lang['discoverMore'] ?></a>
                                     </div>
                                 </div>
                             </div>
@@ -74,25 +69,19 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);">
-                        </div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider__social">
-                            <a href="https://www.facebook.com/trepavocreativeagency">facebook</a>
-
-                            <a href="https://www.instagram.com/trepavocreativeagency/">instagram</a>
+                            style="background-image: url(assets/images/slider/main-slider-3_947_486.webp);">
                         </div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
                                         <div class="main-slider__title-box-1">
-                                            <h2>We build <br> Your Brand <br> Together</h2>
+                                            <h2><?=$lang['slide3Title'] ?></h2>
                                             <div class="main-slider__title-box-2">
-                                                <h2>We build <br> Together <br> Your Brand</h2>
+                                                <h2><?=$lang['slide3Title'] ?></h2>
                                             </div>
                                         </div>
-                                        <a href="about" class="thm-btn">Discover More</a>
+                                        <a href="about" class="thm-btn"><?=$lang['discoverMore'] ?></a>
                                     </div>
                                 </div>
                             </div>
@@ -115,205 +104,9 @@
         </section>
         <!--Main Slider End-->
 
-        <!--Services One Start-->
-        <section class="services-one">
-            <div class="services-one-shape" style="background-image: url(assets/images/shapes/services-one-shape.png)">
-            </div>
-            <div class="container">
-                <div class="services-one__top">
-                    <div class="row">
-                        <div class="col-xl-7 col-lg-6">
-                            <div class="services-one__top-left">
-                                <div class="section-title text-left">
-                                    <span class="section-title__tagline">Our Services</span>
-                                    <h2 class="section-title__title">We Shape the <br> Perfect solution</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-6">
-                            <div class="services-one__top-right">
-                                <p class="services-one__top-text">We never take the road of " sufficency", we always strive for the best.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="services-one__bottom">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                            <!--Services One Single-->
-                            <div class="services-one__single">
-                                <h3 class="services-one__title"><a href="mobile-application.html">mobile <br>
-                                        applications</a></h3>
-                                <div class="services-one__icon">
-                                    <span class="icon-online-shopping"></span>
-                                </div>
-                                <div class="services-one__count"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                            <!--Services One Single-->
-                            <div class="services-one__single">
-                                <h3 class="services-one__title"><a href="digital-marketing.html">digital <br>
-                                        marketings</a></h3>
-                                <div class="services-one__icon">
-                                    <span class="icon-growth"></span>
-                                </div>
-                                <div class="services-one__count"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                            <!--Services One Single-->
-                            <div class="services-one__single">
-                                <h3 class="services-one__title"><a href="graphic-designing.html">Graphic <br>
-                                        Designings</a></h3>
-                                <div class="services-one__icon">
-                                    <span class="icon-webpage"></span>
-                                </div>
-                                <div class="services-one__count"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms">
-                            <!--Services One Single-->
-                            <div class="services-one__single">
-                                <h3 class="services-one__title"><a href="website-development.html">Website <br>
-                                        developments</a></h3>
-                                <div class="services-one__icon">
-                                    <span class="icon-front-end"></span>
-                                </div>
-                                <div class="services-one__count"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="500ms">
-                            <!--Services One Single-->
-                            <div class="services-one__single">
-                                <h3 class="services-one__title"><a href="social-marketing.html">Social <br>
-                                        marketings</a></h3>
-                                <div class="services-one__icon">
-                                    <span class="icon-bullhorn"></span>
-                                </div>
-                                <div class="services-one__count"></div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="600ms">
-                            <!--Services One Single-->
-                            <div class="services-one__view-all">
-                                <div class="services-one__view-all-title-box">
-                                    <h3 class="services-one__view-all-title"><a href="services.html">View our <br> all
-                                            services</a></h3>
-                                </div>
-                                <div class="services-one__view-all-arrow">
-                                    <a href="services.html"><span class="icon-arrow-right"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Services One End-->
-
-        <!--Welcome One Start-->
-        <section class="welcome-one">
-            <div class="welcome-one-shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms"><img
-                    src="assets/images/shapes/welcom-one-shape.png" alt=""></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                        <div class="welcome-one__left">
-                            <div class="welcome-one__img-box">
-                                <div class="welcome-one__img">
-                                    <img src="assets/images/resources/welcome-one-img-1.jpg" alt="">
-                                </div>
-                                <div class="welcome-one__experience">
-                                    <div class="welcome-one__experience-icon">
-                                        <span class="icon-conversation"></span>
-                                    </div>
-                                    <div class="welcome-one__experience-content">
-                                        <h3 class="welcome-one__experience-title"><span>Our customers'</span> success<br> is also our success</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="welcome-one__right">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Our web approach</span>
-                                <h2 class="section-title__title">Integrated web solutions</h2>
-                            </div>
-                            <p class="welcome-one__right-text">We offer complete web solutions, personalised for each of our clients' business profile.</p>
-                            <div class="welcome-one__bottom">
-                                <div class="row">
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="welcome-one__bottom-left">
-                                            <h4 class="welcome-one__bottom-title">providing efficient <br> website
-                                                solutions <br> for your success.</h4>
-                                            <ul class="list-unstyled welcome-one__points">
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="icon-tick"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Cooperation</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="icon-tick"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Dialog</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="icon-tick"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Availability</p>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="icon">
-                                                        <span class="icon-tick"></span>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Innovation</p>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                            <div class="welcome-one__person">
-                                                <div class="welcome-one__person-img">
-                                                    <img src="assets/images/resources/welcome-one-person-img.jpg"
-                                                        alt="">
-                                                </div>
-                                                <div class="welcome-one__person-sign">
-                                                    <h3>Andreea</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="welcome-one__bottom-right">
-                                            <div class="welcome-one__bottom-right-content">
-                                                <div class="welcome-one__bottom-right-icon">
-                                                    <span class="icon-help"></span>
-                                                </div>
-                                                <h4 class="welcome-one__bottom-right-title">How Can We Help Your
-                                                    Business To Grow</h4>
-                                                <a href="about" class="thm-btn welcome-one__btn">read more</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Welcome One End-->
-
+        <?php include_once "partials/index/section-our-approach.php" ?>
+        <?php include_once "partials/index/section-our-services.php" ?>
+        
         <!--Brand One Start-->
         <section class="brand-one">
             <div class="container">
@@ -729,7 +522,7 @@
                                 </div>
                             </div>
                             <div class="cta-one__right">
-                                <a href="<?php echo $contact_link; ?>" class="thm-btn cta-one__btn"><?php echo $lang['letsGetStarted'] ?></a>
+                                <a href="<?=$contact_link; ?>" class="thm-btn cta-one__btn"><?=$lang['letsGetStarted'] ?></a>
                             </div>
                         </div>
                     </div>

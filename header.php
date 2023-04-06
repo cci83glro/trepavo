@@ -104,11 +104,13 @@
                     </ul>
                     <div class="main-menu-wrapper__call">
                         <div class="main-menu-wrapper__call-icon">
-                            <img src="assets/images/icon/phone-icon.png" alt="">
+                            <a href="tel:004560534077">
+                                <img src="assets/images/icon/phone-icon.png" alt="">
+                            </a>
                         </div>
                         <div class="main-menu-wrapper__call-number">
-                            <p>Let`s talk!</p>
-                            <h5><a href="info@trepavo.com">info@trepavo.com</a></h5>
+                            <p><?php echo $lang['letsTalk'] ?></p>
+                            <h5><a href="mailto:contact@trepavo.com">contact@trepavo.com</a></h5>
                         </div>
                     </div>
                 </div>
