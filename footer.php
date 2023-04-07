@@ -3,40 +3,26 @@
 
     <!--Site Footer Start-->
     <footer class="site-footer">
-        <div class="site-footer__top">
-            <div class="site-footer__top-shape"
+        <div class="main-content">
+            <div class="background"
                 style="background-image: url(assets/images/shapes/site-footer-top-shape.png)"></div>
-            <div class="container">
-                <div class="site-footer__top-inner">
-                    <div class="site-footer__top-left">
-                        <h3 class="site-footer__top-left-title">Your Perfect Business Partner Solution</h3>
-                        <a href="tel:+45 60 54 30 77" class="site-footer__top-left-phone">+45 60 54 30 77</a>
-                    </div>
-                    <div class="site-footer__top-right">
-                        <div class="site-footer__top-right-social">
-
-                            <a href="https://www.facebook.com/trepavocreativeagency"><i class="fab fa-facebook"></i></a>
-
-                            <a href="https://www.instagram.com/trepavo_creative_agency/"><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="site-footer__middle">
             <div class="container">
                 <div class="site-footer__middle-inner">
                     <div class="row">
                         <div class="col-xl-3 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                            <div class="footer-widget__column footer-widget__contact">
+                            <div class=" footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3>
-                                <p class="footer-widget__contact-text">Tjørnevangen 1, 2660 Brøndby Strand <br> Copenhagen,
-                                    DK</p>
-                                <h4 class="footer-widget__contact-email-phone">
-                                    <a href="mailto:info@trepavo.com"
-                                        class="footer-widget__contact-email">info@trepavo.com</a>
-                                    <a href="tel:+45 60 54 30 77 class="footer-widget__contact-phone>+45 60 54 30 77</a>
-                                </h4>
+                                <p class="footer-widget__contact-text">
+                                    <a target="_blank" href="https://goo.gl/maps/GYgjfZpscnCNKoZX6">
+                                        Tjørnevangen 1, 2660 Brøndby Strand <br> Copenhagen, DK
+                                    </a>
+                                </p>
+                                <p><a href="mailto:info@trepavo.com" class="footer-widget__contact-email">info@trepavo.com</a></p>
+                                <p><a href="tel:+45 60 54 30 77 class="footer-widget__contact-phone>+45 60 54 30 77</a></p>
+                                <div class="site-footer__social">
+                                    <a href="https://www.facebook.com/trepavocreativeagency"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.instagram.com/trepavo_creative_agency/"><i class="fab fa-instagram"></i></a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
@@ -50,7 +36,7 @@
                                     <li><a href="blog.html">News</a></li>
                                 </ul>
                                 <ul
-                                    class="footer-widget__links-list footer-widget__links-list-two list-unstyled clearfix">
+                                    class="footer-widget__links-list list-unstyled clearfix">
                                     <li><a href="faq.html">FAQs</a></li>
                                     <li><a href="about.html">Terms & Conditions</a></li>
                                     <li><a href="about.html">Privacy Policy</a></li>
@@ -65,8 +51,9 @@
                                 <form class="footer-widget__newsletter-form">
                                     <div class="footer-widget__newsletter-input-box">
                                         <input type="email" placeholder="Email address" name="email">
-                                        <button type="submit" class="footer-widget__newsletter-btn"><i
-                                                class="far fa-paper-plane"></i></button>
+                                        <button type="submit" class="footer-widget__newsletter-btn">
+                                            <i class="far fa-paper-plane"></i>
+                                        </button>
                                     </div>
                                 </form>
                                 <div class="footer-widget__newsletter-bottom">

@@ -1,5 +1,5 @@
 
-<section class="brand-one">
+<section class="brands-section">
     <div class="container">
         <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
             "0": {

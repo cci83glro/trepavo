@@ -15,15 +15,6 @@
     }
   );
 
-  if ($('.main-slider-two__img').length) {
-    $('.main-slider-two__img').tilt({
-      maxTilt: 5,
-      scale: 1,
-      perspective: 700,
-      speed: 1000
-    });
-  }
-
   // Popular Causes Progress Bar
   if ($('.count-bar').length) {
     $('.count-bar').appear(function () {
@@ -154,41 +145,6 @@
     });
   }
 
-  // Project Two Carousel
-  if ($(".project-two__carousel").length) {
-    $(".project-two__carousel").owlCarousel({
-      loop: true,
-      margin: 30,
-      nav: false,
-      smartSpeed: 500,
-      autoHeight: false,
-      autoplay: true,
-      dots: true,
-      autoplayTimeout: 10000,
-      navText: [
-        '<span class="icon-left-arrow"></span>',
-        '<span class="icon-right-arrow"></span>',
-      ],
-      responsive: {
-        0: {
-          items: 1,
-        },
-        600: {
-          items: 1,
-        },
-        800: {
-          items: 2,
-        },
-        1024: {
-          items: 2,
-        },
-        1200: {
-          items: 4,
-        },
-      },
-    });
-  }
-
   var loadCarrousel = function () {
     
     // Latest Projects Carousel
@@ -227,8 +183,8 @@
     }
 
     // Testimonial One Carousel
-    if ($(".testimonial-one__carousel").length) {
-      $(".testimonial-one__carousel").owlCarousel({
+    if ($(".testimonials-section__carousel").length) {
+      $(".testimonials-section__carousel").owlCarousel({
         loop: true,
         margin: 30,
         nav: false,
@@ -260,46 +216,9 @@
         },
       });
     }
-
-
-    // Testimonial Two Carousel
-    if ($(".testimonial-two__carousel").length) {
-      $(".testimonial-two__carousel").owlCarousel({
-        loop: true,
-        margin: 30,
-        nav: true,
-        smartSpeed: 500,
-        autoHeight: false,
-        autoplay: true,
-        dots: false,
-        autoplayTimeout: 10000,
-        navText: [
-          '<span class="icon-arrow-left"></span>',
-          '<span class="icon-arrow-right"></span>',
-        ],
-        responsive: {
-          0: {
-            items: 1,
-          },
-          600: {
-            items: 1,
-          },
-          800: {
-            items: 1,
-          },
-          1024: {
-            items: 1,
-          },
-          1200: {
-            items: 1,
-          },
-        },
-      });
-    }
   }
 
   loadCarrousel();
-
 
   if ($(".scroll-to-target").length) {
     $(".scroll-to-target").on("click", function () {

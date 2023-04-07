@@ -51,5 +51,7 @@
 											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
 		
 		"ctaSectionTitle" => "Vi leverer de bedste kundeoplevelser",
+		
+		"footerTopTitle" => "Tag fat i os",
 	);
 ?>

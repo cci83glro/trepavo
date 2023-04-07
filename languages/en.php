@@ -51,5 +51,7 @@
 											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
 											
 		"ctaSectionTitle" => "We’re delivering the best customer experiences",
+		
+		"footerTopTitle" => "Get in touch with us",
 	);
 ?>
