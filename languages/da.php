@@ -21,7 +21,7 @@
 		"ourApproachSectionTitleTagline" => "Vores tilgang",
 		"ourApproachSectionTitleTitle" => "Integreret digital marketing",
 		"ourApproachSectionRightTitle" => "Vi vil gerne hjælpe din virksomhed til at vokse",
-		"ourApproachSectionRightText" => "Vi tilbyder end-to-end digital marketing løsninger, som er tilpasset hver enkelte kunder's forretningsprofil.",
+		"ourApproachSectionRightText" => "Vi tilbyder end-to-end digital marketing løsninger, som er tilpasset hver enkelte kundes forretningsprofil.",
 		"ourApproachSectionBottomTitle" => "Vores værdier",
 		"ourApproachValue1" => "Fleksibilitet",
 		"ourApproachValue2" => "Tilgængelighed",
@@ -40,6 +40,15 @@
 		
 		"ourProjectsSectionTitleTagline" => "Vores arbejde",
 		"ourProjectsSectionTitleTitle" => "Seneste projekter",
+		
+		"testimonialsSectionTitleTagline" => "Testimonials",
+		"testimonialsSectionTitleTitle" => "Vores kunder elsker os ...",
+		"testimonialsSectionVestmaegler" => "Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
+											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
+		"testimonialsSectionCentrumfoto" => "Jan - Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
+											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
+		"testimonialsSectionFrisoerenMaria" => "Maria - Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
+											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
 		
 	);
 ?>

@@ -41,5 +41,13 @@
 		"ourProjectsSectionTitleTagline" => "Our work",
 		"ourProjectsSectionTitleTitle" => "Latest projects",
 		
+		"testimonialsSectionTitleTagline" => "Testimonials",
+		"testimonialsSectionTitleTitle" => "Our customers love us ...",
+		"testimonialsSectionVestmaegler" => "We have been collaborating with Trepavo since 2020. They helped us with logos, videos and social media projects.
+											Besides this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
+		"testimonialsSectionCentrumfoto" => "Jan - I have worked with Trepavo since 2020. They helped my businesses with logos, videos and social media projects.
+											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
+		"testimonialsSectionFrisoerenMaria" => "Maria - I have worked with Trepavo since 2020. They helped my businesses with logos, videos and social media projects.
+											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
 	);
 ?>

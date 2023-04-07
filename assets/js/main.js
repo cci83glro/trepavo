@@ -192,8 +192,8 @@
   var loadCarrousel = function () {
     
     // Latest Projects Carousel
-    if ($(".projects-section__cariusel").length) {
-      $(".projects-section__cariusel").owlCarousel({
+    if ($(".projects-section__carousel").length) {
+      $(".projects-section__carousel").owlCarousel({
         loop: true,
         margin: 30,
         nav: false,
