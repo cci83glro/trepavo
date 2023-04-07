@@ -1,7 +1,7 @@
 <?php
 	$lang = array(
-		"lang_en" => "English",
-		"lang_da" => "Dansk",
+		"lang_en" => "EN",
+		"lang_da" => "DA",
 
 		"title" => "My Amazing Website",
 		"home" => "Home",
@@ -37,6 +37,9 @@
 		"ourServicesMobileApps" => "Mobile<br>Apps",
 		"ourServicesSoMe" => "Social media<br>marketing",
 		"ourServicesSeoAndAnalytics" => "SEO and<br>analytics",
+		
+		"ourProjectsSectionTitleTagline" => "Our work",
+		"ourProjectsSectionTitleTitle" => "Latest projects",
 		
 	);
 ?>

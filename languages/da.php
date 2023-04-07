@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
-		"lang_en" => "English",
-		"lang_da" => "Dansk",
+		"lang_en" => "EN",
+		"lang_da" => "DA",
 
 		"title" => "My Amazing Website",
 		"home" => "Hjem",
 		"about" => "Om os",
 		"projects" => "Projekter",
 		"contact" => "Kontakt",
-		"letsTalk" => "Lad os tale sammen!",
+		"letsTalk" => "Lad os snakke sammen!",
 		"readMore" => "Læs mere",
 		"discoverMore" => "Opdag mere",
 		"letsGetStarted" => "Lad os gå i gang!",
@@ -19,7 +19,7 @@
 		
 		"ourApproachSectionExperienceTitle" => "<span>Vores kunders'</span> succes<br> bliver til vores succes",
 		"ourApproachSectionTitleTagline" => "Vores tilgang",
-		"ourApproachSectionTitleTitle" => "Integrerede digital marketing løsninger",
+		"ourApproachSectionTitleTitle" => "Integreret digital marketing",
 		"ourApproachSectionRightTitle" => "Vi vil gerne hjælpe din virksomhed til at vokse",
 		"ourApproachSectionRightText" => "Vi tilbyder end-to-end digital marketing løsninger, som er tilpasset hver enkelte kunder's forretningsprofil.",
 		"ourApproachSectionBottomTitle" => "Vores værdier",
@@ -38,6 +38,8 @@
 		"ourServicesSoMe" => "Social media<br>marketing",
 		"ourServicesSeoAndAnalytics" => "SEO og<br>analytics",
 		
+		"ourProjectsSectionTitleTagline" => "Vores arbejde",
+		"ourProjectsSectionTitleTitle" => "Seneste projekter",
 		
 	);
 ?>
