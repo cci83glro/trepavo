@@ -50,5 +50,6 @@
 		"testimonialsSectionFrisoerenMaria" => "Maria - Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
 											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
 		
+		"ctaSectionTitle" => "Vi leverer de bedste kundeoplevelser",
 	);
 ?>

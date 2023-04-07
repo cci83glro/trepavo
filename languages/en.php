@@ -11,7 +11,7 @@
 		"letsTalk" => "Lat's talk!",
 		"readMore" => "Read more",
 		"discoverMore" => "Discover more",
-		"letsGetStarted" => "Lat's get started!",
+		"letsGetStarted" => "Let's get started!",
 		
 		"slide1Title" => "Dedicated to <br/>brands with <br/>attitude",
 		"slide2Title" => "The creative minds<br/>behind your brand",
@@ -49,5 +49,7 @@
 											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
 		"testimonialsSectionFrisoerenMaria" => "Maria - I have worked with Trepavo since 2020. They helped my businesses with logos, videos and social media projects.
 											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
+											
+		"ctaSectionTitle" => "We’re delivering the best customer experiences",
 	);
 ?>

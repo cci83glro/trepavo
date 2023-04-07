@@ -11,11 +11,11 @@
                             <span class="icon-consulting"></span>
                         </div>
                         <div class="cta-one__title-box">
-                            <h2 class="cta-one__title">we’re delivering the best <br> customer experience</h2>
+                            <h2 class="cta-one__title"><?=$lang['ctaSectionTitle'];?></h2>
                         </div>
                     </div>
                     <div class="cta-one__right">
-                        <a href="<?=$contact_link; ?>" class="thm-btn cta-one__btn"><?=$lang['letsGetStarted'] ?></a>
+                        <a href="<?=$contact_link;?>" class="thm-btn cta-one__btn"><?=$lang['letsGetStarted']?></a>
                     </div>
                 </div>
             </div>
