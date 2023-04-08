@@ -547,7 +547,7 @@ ul {
     background-color: var(--primary-color);
     position: absolute;
     /* top: 18px; */
-    bottom: 6px;
+    bottom: 4px;
     left: -10px;
     right: -10px;
     transition: transform 500ms ease;
@@ -5915,6 +5915,7 @@ ul {
     display: block;
     background-color: #ffffff;
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, .05);
+    height: 230px;
     padding: 44px 50px 42px;
     margin-bottom: 30px;
 }
@@ -6017,18 +6018,21 @@ ul {
     transition: all 500ms ease;
 }
 
-.location-bottom__text a:hover {
-    color: var(--primary-color);
-}
-
 .location-bottom__text a:before {
     position: absolute;
-    top: 12px;
-    left: -10px;
-    right: -10px;
+    top: 25px;
+    left: -5px;
+    right: -5px;
     height: 1px;
     content: "";
     background-color: var(--primary-color);
+    transition: transform 500ms ease;
+    transform: scale(0, 1);
+    transform-origin: right center;
+}
+
+.location-bottom__text a:hover:before {
+    transform: scale(1, 1);
 }
 
 /*--------------------------------------------------------------

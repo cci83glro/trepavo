@@ -9,6 +9,7 @@
 		"services" => "Services",
 		"projects" => "Projects",
 		"contact" => "Contact",
+		"address" => "Address",
 		"letsTalk" => "Lat's talk!",
 		"readMore" => "Read more",
 		"discoverMore" => "Discover more",

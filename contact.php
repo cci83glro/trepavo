@@ -34,7 +34,7 @@
                     <div class="col-xl-4 col-lg-4">
                        <!--Location Single-->
                         <div class="location__single location__single-last">
-                            <h3 class="location__title">contact</h3>
+                            <h3 class="location__title"><?=$lang["contact"]?></h3>
                             <h5 class="location__phone-email">
                                 <a href="tel:926668880000" class="location__phone">+45 60 54 30 77</a>
                                 <a href="mailto:needhelp@company.com" class="location__email">info@trepavo.com</a>
@@ -50,7 +50,7 @@
                     <div class="col-xl-4 col-lg-4">
                        <!--Location Single-->
                         <div class="location__single">
-                            <h3 class="location__title">address</h3>
+                            <h3 class="location__title"><?=$lang["address"]?></h3>
                             <p class="location__text">Tjørnevangen 1, 2660 Brøndby Strand, Copenhagen, DK </p>
                         </div>
                     </div>

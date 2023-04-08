@@ -9,6 +9,7 @@
 		"services" => "Services",
 		"projects" => "Projekter",
 		"contact" => "Kontakt",
+		"address" => "Adresse",
 		"letsTalk" => "Lad os snakke sammen!",
 		"readMore" => "Læs mere",
 		"discoverMore" => "Opdag mere",
