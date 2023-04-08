@@ -11,13 +11,13 @@
                     <div class="row">
                         <div class="col-xl-3 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                             <div class=" footer-widget__contact">
-                                <h3 class="footer-widget__title">Contact</h3>
+                                <h3 class="footer-widget__title"><?=$lang["contact"];?></h3>
                                 <p class="footer-widget__contact-text">
                                     <a target="_blank" href="https://goo.gl/maps/GYgjfZpscnCNKoZX6">
                                         Tjørnevangen 1, 2660 Brøndby Strand <br> Copenhagen, DK
                                     </a>
                                 </p>
-                                <p><a href="mailto:info@trepavo.com" class="footer-widget__contact-email">info@trepavo.com</a></p>
+                                <p><a href="mailto:contact@trepavo.com" class="footer-widget__contact-email">contact@trepavo.com</a></p>
                                 <p><a href="tel:+45 60 54 30 77 class="footer-widget__contact-phone>+45 60 54 30 77</a></p>
                                 <div class="site-footer__social">
                                     <a href="https://www.facebook.com/trepavocreativeagency"><i class="fab fa-facebook"></i></a>

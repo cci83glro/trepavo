@@ -32,36 +32,21 @@
                 <div class="main-menu-wrapper__main-menu">
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                     <ul class="main-menu__list">
-                        <li class="dropdown">
-                            <a href="index" type="Home"><?php echo $lang['home'] ?></a>
+                        <li>
+                            <a href="<?=$index_link;?>" type="Home"><?php echo $lang['home'] ?></a>
                         </li>
-                        <li class="dropdown">
-                            <a href="about" type="About"><?php echo $lang['about'] ?></a>
+                        <li>
+                            <a href="<?=$about_link;?>" type="About"><?php echo $lang['about'] ?></a>
                         </li>
-                        <!--li class="dropdown">
-                            <a href="services" type="Services">Services</a>
-                            <ul>
-                                <li><a href="services">Services</a></li>
-                                <li><a href="mobile-application">Mobile Application</a></li>
-                                <li><a href="digital-marketing">Digital Marketing</a></li>
-                                <li><a href="graphic-designing">Graphic Designing</a></li>
-                                <li><a href="website-development">Website Development</a></li>
-                                <li><a href="social-marketing">Social Marketing</a></li>
-                                <li><a href="content-writing">Content Writting</a></li>
-                            </ul>
-                        </li-->
-                        <li class="dropdown">
-                            <a href="projects" type="Projects"><?php echo $lang['projects'] ?></a>
+                        <li>
+                            <a href="<?=$services_link;?>" type="Services"><?php echo $lang['services'] ?></a>
                         </li>
-                        <!--li class="dropdown">
-                            <a href="#">Blog</a>
-                            <ul>
-                                <li><a href="blog.html">Blog Posts</a></li>
-                                <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
-                            </ul>
-                        </li-->
-                        <li><a href="contact" type="Contact"><?php echo $lang['contact'] ?></a></li>
+                        <li>
+                            <a href="<?=$projects_link;?>" type="Projects"><?php echo $lang['projects'] ?></a>
+                        </li>
+                        <li>
+                            <a href="<?=$contact_link;?>" type="Contact"><?php echo $lang['contact'] ?></a>
+                        </li>
                     </ul>
                 </div>
                 <div class="main-menu-wrapper__right">

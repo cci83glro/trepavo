@@ -6,6 +6,7 @@
 		"title" => "My Amazing Website",
 		"home" => "Home",
 		"about" => "About us",
+		"services" => "Services",
 		"projects" => "Projects",
 		"contact" => "Contact",
 		"letsTalk" => "Lat's talk!",

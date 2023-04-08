@@ -1,4 +1,7 @@
-<?php include "header.php" ?>
+<?php 
+    $title = "Contact - Trepavo Creative Agency";
+    include_once "header.php";
+?>
 
         <!--Page Header Start-->
         <section class="page-header">
@@ -112,15 +115,8 @@
             </div>
         </section>
         <!--contact Page End-->
-
-        <!--Google Map Start-->
-        <section class="contcat-page-google-map">
-            <iframe
-               src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4506.107550099154!2d12.423975!3d55.618480000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465256f5545f2475%3A0x8c00df4dc176c692!2sTj%C3%B8rnevangen%201%2C%202660%20Br%C3%B8ndby%20Strand!5e0!3m2!1sen!2sdk!4v1674411280383!5m2!1sen!2sdk" width="2000" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-               
-
-        </section>
-        <!--Google Map End-->
-
-<?php include "footer.php" ?>
+<?php 
+    include_once "partials/contact/section-google-maps.php";
+    include_once "footer.php";
+?>
   
