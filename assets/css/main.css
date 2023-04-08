@@ -6034,18 +6034,18 @@ ul {
 /*--------------------------------------------------------------
 # Contact Page
 --------------------------------------------------------------*/
-.contact-page {
+.contact-form-section {
     position: relative;
     display: block;
     padding: 120px 0 120px;
 }
 
-.contact-page .container {
+.contact-form-section .container {
     max-width: 768px;
     width: 100%;
 }
 
-.contact-page__form .comment-form__btn {
+.contact-form-section form .comment-form__btn {
     margin: 0 auto;
     display: block;
 }

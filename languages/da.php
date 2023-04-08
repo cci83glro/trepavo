@@ -53,6 +53,15 @@
 		
 		"ctaSectionTitle" => "Vi leverer de bedste kundeoplevelser",
 		
+		"contactFormTagline" => "Vil du høre fra os?",
+		"contactFormTitle" => "Send en besked ...",
+		"contactFormNameLabel" => "Dit navn",
+		"contactFormEmailLabel" => "Email",
+		"contactFormPhoneLabel" => "Telefon",
+		"contactFormSubjectLabel" => "Subjekt",
+		"contactFormMessageLabel" => "Skriv besked ...",
+		"contactFormSendButtonLabel" => "Send besked",
+		
 		"footerTopTitle" => "Tag fat i os",
 	);
 ?>

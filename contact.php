@@ -10,10 +10,9 @@
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
-                      
+                        <li><a href="<?=$index_link;?>"><?=$lang["home"];?></a></li>
                     </ul>
-                    <h2>Contact</h2>
+                    <h2><?=$lang["contact"];?></h2>
                 </div>
             </div>
         </section>
@@ -68,44 +67,44 @@
         <!--Location End-->
 
         <!--contact Page Start-->
-        <section class="contact-page">
+        <section class="contact-form-section">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">Eager to contact us?</span>
-                    <h2 class="section-title__title">Drop a message ...</h2>
+                    <span class="section-title__tagline"><?=$lang["contactFormTagline"];?></span>
+                    <h2 class="section-title__title"><?=$lang["contactFormTitle"];?></h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-12">
-                        <div class="contact-page__form">
-                            <form action="assets/inc/sendemail.php" class="comment-one__form contact-form-validated" novalidate="novalidate">
+                        <div class="form">
+                            <form id="ajax-form" action="mailer.php" class="comment-one__form contact-form-validated" novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Your name" name="name">
+                                            <input type="text" placeholder="<?=$lang["contactFormNameLabel"];?>" name="name" id="name">
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Email address" name="email">
+                                            <input type="email" placeholder="<?=$lang["contactFormEmailLabel"];?>" name="email" id="email">
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Phone" name="phone">
+                                            <input type="text" placeholder="<?=$lang["contactFormPhoneLabel"];?>" name="phone" id="phone">
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Subject" name="subject">
+                                            <input type="email" placeholder="<?=$lang["contactFormSubjectLabel"];?>" name="subject" id="subject">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="comment-form__input-box">
-                                            <textarea name="message" placeholder="Write message"></textarea>
+                                            <textarea name="message" id="message" placeholder="<?=$lang["contactFormMessageLabel"];?>"></textarea>
                                         </div>
-                                        <button type="submit" class="thm-btn comment-form__btn">send a message</button>
+                                        <button id="send-message" class="thm-btn comment-form__btn"><?=$lang["contactFormSendButtonLabel"];?></button>
                                     </div>
                                 </div>
                             </form>
@@ -117,6 +116,8 @@
         <!--contact Page End-->
 <?php 
     include_once "partials/contact/section-google-maps.php";
+
+    $custom_js = array("'assets/js/contact.js'");
     include_once "footer.php";
 ?>
   

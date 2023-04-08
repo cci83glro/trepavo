@@ -53,6 +53,17 @@
 											
 		"ctaSectionTitle" => "We’re delivering the best customer experiences",
 		
+		"contactFormTagline" => "Eager to contact us?",
+		"contactFormTitle" => "Drop a message ...",
+		"contactFormNameLabel" => "Your name",
+		"contactFormEmailLabel" => "Email address",
+		"contactFormPhoneLabel" => "Phone",
+		"contactFormSubjectLabel" => "Subject",
+		"contactFormMessageLabel" => "Write a message ...",
+		"contactFormSendButtonLabel" => "Send message",
+		
 		"footerTopTitle" => "Get in touch with us",
+		
+		
 	);
 ?>

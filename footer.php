@@ -117,9 +117,6 @@
                     <a href="https://www.instagram.com/trepavo_creative_agency/" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
-
-
-
         </div>
         <!-- /.mobile-nav__content -->
     </div>
@@ -143,7 +140,15 @@
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
 
-    <?php include_once "config/js.php" ?>
+    <?php 
+        include_once "config/js.php";
+
+        if (isset($custom_js)) {
+            foreach ($custom_js as $jsPath) {
+                echo("<script src=" . $jsPath . "></script>\n");
+            }
+        }
+    ?>
 </body>
 
 </html>
