@@ -95,7 +95,7 @@
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="<?=$lang["contactFormSubjectLabel"];?>" name="subject" id="subject">
+                                            <input type="text" placeholder="<?=$lang["contactFormSubjectLabel"];?>" name="subject" id="subject">
                                         </div>
                                     </div>
                                 </div>
@@ -107,7 +107,11 @@
                                         <button id="send-message" class="thm-btn comment-form__btn"><?=$lang["contactFormSendButtonLabel"];?></button>
                                     </div>
                                 </div>
+                                <div class="error text-align-center" id="err-form">Incorrect data!</div>
+                                <div class="error text-align-center" id="err-timedout">The connection to the server expired!</div>
+                                <div class="error" id="err-state"></div>
                             </form>
+                            <div id="ajax-success"></div>
                         </div>
                     </div>
                 </div>

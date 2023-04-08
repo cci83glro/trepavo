@@ -1,7 +1,7 @@
 jQuery(document).ready(function ($) { // wait until the document is ready
 	$('#send-message').click(function(){ // when the button is clicked the code executes
 		$('.error').fadeOut('slow'); // reset the error messages (hides them)
-		$('.loader').fadeIn('slow');
+		$('.preloader').fadeIn('slow');
 
 		var error = false; // we will set this true if the form isn't valid
 
@@ -42,13 +42,14 @@ jQuery(document).ready(function ($) { // wait until the document is ready
 					$("#err-state").html('An error occurred: ' + error + '');
 				}
 			},
-			success: function() {
+			success: function(data) {
 				$('#ajax-form').slideUp('slow');
-				$('#ajaxsuccess').slideDown('slow');
+				$('#ajax-success').html(data['message']);
+				$('#ajax-success').slideDown('slow');
 			}
 		});
 
-		$('.loader').fadeOut('slow');
+		$('.preloader').fadeOut('slow');
 		return false;
 	});
 });

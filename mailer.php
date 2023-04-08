@@ -37,15 +37,15 @@ if (array_key_exists('email', $_POST)) {
 	{
         $mail->Host = $smtp_host;
         $mail->Port = $smtp_port;
-        $mail->SMTPAuth = $smtp_auth;                                   //Enable SMTP authentication
-        $mail->Username = $smtp_usr;                     //SMTP username
-        $mail->Password = $smtp_pwd;                               //SMTP password
+        $mail->SMTPAuth = $smtp_auth;
+        $mail->Username = $smtp_usr;
+        $mail->Password = $smtp_pwd;
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->setFrom($smtp_fromEmail, $smtp_fromName);
         $mail->addAddress($smtp_toEmail);
         
         if ($mail->addReplyTo($_POST['email'], $_POST['name'])) {
-            $mail->Subject = "Detaliere ofertă de preț";
+            $mail->Subject = $smtp_subject;
             //Keep it simple - don't use HTML
             $mail->isHTML(false);
             //Build a simple message body
@@ -67,19 +67,19 @@ if (array_key_exists('email', $_POST)) {
     
                 $response = [
                     "status" => false,
-                    "message" => 'Error sending the message!<br/>Please try again later or use our phone or email address to contact us.',
+                    "message" => $smtp_error_message,
                     "debug" => $mail->ErrorInfo
                 ];
             } else {
                 $response = [
                     "status" => true,
-                    "message" => 'Thanks you for your message!<br/>We will get back to you as soon as possible.'
+                    "message" => $smtp_success_message
                 ];
             }
         } else {
             $response = [
                 "status" => false,
-                "message" => 'Invalid email!'
+                "message" => $smtp_invalid_email_message
             ];
         }
     }

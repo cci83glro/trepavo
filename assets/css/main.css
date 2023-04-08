@@ -6050,6 +6050,16 @@ ul {
     display: block;
 }
 
+#ajax-success {
+    display: none;
+    text-align: center;
+}
+
+.error {
+    color: var(--primary-color);
+    display: none;
+}
+
 /*--------------------------------------------------------------
 # Contact Page Google Map
 --------------------------------------------------------------*/
