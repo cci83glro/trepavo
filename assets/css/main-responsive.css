@@ -470,6 +470,20 @@
         padding: 48px 25px 76px;
     }
 
+    .testimonials-section__left {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .testimonials-section__right {
+        max-width: 600px;
+        margin: 180px auto 0;
+    }
+
+    .testimonials-section {
+        padding: 240px 0 120px;
+    }
+
     .cta-one__inner {
         padding: 92px 20px;
         flex-direction: column;

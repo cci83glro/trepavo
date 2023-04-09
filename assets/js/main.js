@@ -187,15 +187,15 @@
       $(".testimonials-section__carousel").owlCarousel({
         loop: true,
         margin: 30,
-        nav: false,
+        nav: true,
         smartSpeed: 500,
         autoHeight: false,
         autoplay: true,
         dots: false,
         autoplayTimeout: 10000,
         navText: [
-          '<span class="icon-right-arrow left"></span>',
-          '<span class="icon-right-arrow"></span>',
+          '<span class="icon-arrow-left"></span>',
+          '<span class="icon-arrow-right"></span>',
         ],
         responsive: {
           0: {
@@ -205,13 +205,13 @@
             items: 1,
           },
           800: {
-            items: 2,
+            items: 1,
           },
           1024: {
-            items: 2,
+            items: 1,
           },
           1200: {
-            items: 3,
+            items: 1,
           },
         },
       });
