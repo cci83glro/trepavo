@@ -1,5 +1,5 @@
 <?php
-    $title = "Projects - Trepavo Creative Agency";
+    $page_title = "Projects - Trepavo Creative Agency";
     include_once "header.php";
 
     $subpage_banner_image_url = "assets/images/projects/page-banner_1894_522.webp";
