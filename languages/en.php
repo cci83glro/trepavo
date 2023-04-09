@@ -74,6 +74,15 @@
 		
 		"footerTopTitle" => "Get in touch with us",
 		
+		"serviceDetailGraphicDesignText" => 
+			"EN - grades - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
+			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
+			text of the printing and typesetting industry.",
+		"serviceDetailWebDesignText" => 
+			"EN - webdes - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
+			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
+			text of the printing and typesetting industry."
+		
 		
 	);
 ?>

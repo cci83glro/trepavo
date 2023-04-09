@@ -1,6 +1,30 @@
 (function ($) {
   "use strict";
 
+  $(".service-detail-link").on("click", function (event) {
+    event.preventDefault();
+    var url = $(this).attr('href');
+    $(this).closest('ul').children('li').removeClass('current');
+    var liToMark = $(this).closest('li');
+
+    // $.ajax({
+		// 	type: "POST",
+		// 	url: 'service-detail.php',
+		// 	data: { serviceDetailUrl : url},
+		// 	timeout: 6000,
+		// 	success: function(data) {
+		// 		$('#service-details-container').html(data['message']);
+		// 	}
+		// });
+
+    $.post( "service-detail.php", { serviceDetailUrl : url }, 
+      function(data) {
+        $(liToMark).addClass('current');
+        $('#service-details-container').html(data['message']);
+      }, "json");
+    
+  });
+
   $('#menu-about').click(
     function(e) {
       $.ajax({
