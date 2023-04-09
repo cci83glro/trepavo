@@ -21,13 +21,13 @@
 
 <body data-language="<?php echo $_SESSION['lang']; ?>">
     <div class="preloader">
-        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
+        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="page loader" />
     </div>
     <header class="main-header clearfix">
         <nav class="main-menu clearfix">
             <div class="main-menu-wrapper">
                 <div class="main-menu-wrapper__logo">
-                    <a href="/"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                    <a href="<?=$index_link;?>"><img src="assets/images/resources/logo-1.png" alt="Logo Trepavo Creative Agency"></a>
                 </div>
                 <div class="main-menu-wrapper__main-menu">
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>

@@ -1,33 +1,24 @@
 <?php 
     $title = "Contact - Trepavo Creative Agency";
     include_once "header.php";
-?>
 
-        <!--Page Header Start-->
-        <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-contact.jpg)">
-            </div>
-            <div class="container">
-                <div class="page-header__inner">
-                    <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="<?=$index_link;?>"><?=$lang["home"];?></a></li>
-                    </ul>
-                    <h2><?=$lang["contact"];?></h2>
-                </div>
-            </div>
-        </section>
-        <!--Page Header End-->
+    $subpage_banner_image_url = "assets/images/contact/page-banner_1894_522.webp";
+    $subpage_banner_mobile_image_url = "assets/images/contact/page-banner_720_1044.webp";
+    $subpage_banner_image_alt = "Image with contact blocks";
+    $subpage_banner_title = $lang["contact"];
+    include_once "partials/subpage-banner.php";
+?>
 
         <!--Location Start-->
         <section class="location">
-           <div class="location-shape" style="background-image: url(assets/images/shape/location-shape.png)"></div>
+           <!-- <div class="location-shape" style="background-image: url(assets/images/shapes/location-shape.webp)"></div> -->
             <div class="container">
                 <div class="row">
                     <div class="col-xl-4 col-lg-4">
                        <!--Location Single-->
                         <div class="location__single">
-                            <h3 class="location__title">about</h3>
-                            <p class="location__text">Let`s take your business to the next level!</p>
+                            <h3 class="location__title"><?=$lang["letsTalk"]?></h3>
+                            <p class="location__text"><?=$lang["contactPageLeftText"]?></p>
                         </div>
                     </div>
                     
@@ -58,7 +49,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="location__bottom">
-                            <p class="location-bottom__text">Trepavo Creative Agency dedicated to business with personality! <a href="about.html">Find Your Solution</a></p>
+                            <p class="location-bottom__text"><?=$lang["contactPageBottomSectionMainText"];?> <a href="about.html"><?=$lang["contactPageBottomSectionLinkText"];?></a></p>
                         </div>
                     </div>
                 </div>

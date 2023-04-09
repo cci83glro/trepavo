@@ -10,7 +10,8 @@
 		"projects" => "Projekter",
 		"contact" => "Kontakt",
 		"address" => "Adresse",
-		"letsTalk" => "Lad os snakke sammen!",
+		"all" => "Alle",
+		"letsTalk" => "Lad os tale sammen!",
 		"readMore" => "Læs mere",
 		"discoverMore" => "Opdag mere",
 		"letsGetStarted" => "Lad os gå i gang!",
@@ -35,10 +36,16 @@
 		"ourServicesSectionTitleTitle" => "Sammen finder vi den<br>Perfekte løsning",
 		"ourServicesSectionTopRightText" => "Vi går aldrig &#x22;godt nok&#x22; vejen, men vi stræber altid efter at finde den bedste løsning, som dækker kundens hele markedsføring livscyklus.",
 		"ourServicesGraphicDesign" => "Grafisk<br>design",
+		"ourServicesGraphicDesignNoBr" => "Grafisk design",
 		"ourServicesWebDesign" => "Web<br>design",
-		"ourServicesMobileApps" => "Mobile<br>Apps",
+		"ourServicesWebDesignNoBr" => "Web design",
+		"ourServicesMobileApps" => "Mobile<br>apps",
+		"ourServicesMobileAppsNoBr" => "Mobile apps",
 		"ourServicesSoMe" => "Social media<br>marketing",
+		"ourServicesSoMeNoBr" => "Social media marketing",
 		"ourServicesSeoAndAnalytics" => "SEO og<br>analytics",
+		"ourServicesSeoAndAnalyticsNoBr" => "SEO og analytics",
+		
 		
 		"ourProjectsSectionTitleTagline" => "Vores arbejde",
 		"ourProjectsSectionTitleTitle" => "Seneste projekter",
@@ -54,6 +61,9 @@
 		
 		"ctaSectionTitle" => "Vi leverer de bedste kundeoplevelser",
 		
+		"contactPageLeftText" => "Vi er altid klar til at hjælpe dig løfte din forretning til næste trin.",
+		"contactPageBottomSectionMainText" => "Er du stadig i tvivl om hvad vi kan gøre for din virksomhed?",
+		"contactPageBottomSectionLinkText" => "Læs mere om vores løsninger",
 		"contactFormTagline" => "Vil du høre fra os?",
 		"contactFormTitle" => "Send en besked ...",
 		"contactFormNameLabel" => "Dit navn",
