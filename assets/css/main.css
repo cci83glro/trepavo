@@ -2402,9 +2402,9 @@ ul {
 
 .project-filter.style1 li .filter-text:before {
     position: absolute;
-    top: 18px;
-    left: -10px;
-    right: -6px;
+    top: 30px;
+    left: 0px;
+    right: 0px;
     content: "";
     background: var(--primary-color);
     height: 1px;

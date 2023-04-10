@@ -20,7 +20,7 @@
     $.post( "service-detail.php", { serviceDetailUrl : url }, 
       function(data) {
         $(liToMark).addClass('current');
-        $('#service-details-container').html(data['message']);
+        $('#service-details-container').hide().html(data['message']).fadeIn(1000);
       }, "json");
     
   });
