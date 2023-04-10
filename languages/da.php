@@ -82,10 +82,27 @@
 		"serviceDetailGraphicDesignBenefitList" => "DA - Benefit 1||DA - Benefit 2||DA - Benefit 3",
 		"serviceDetailGraphicDesignFaq" => "DA - FAQ 1|bla bla bla en 1||DA - FAQ 2|bla bla en 2||DA - FAQ 3|bla bla bla en 3",
 		"serviceDetailWebDesignText" => 
-			"DA - webdes - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
-			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
-			text of the printing and typesetting industry.",
+			"Vi synes, at en hjemmeside er meget mere end bare et firmas online tilstedeværelse. Det er derfor vi, hos Trepavo, bruger passende lang tid til at forstå nøglefakta om
+			vores kunder såsom deres forretningsmodel, deres målgrupper og ikke mindst hvad er det primære formål, hjemmesiden skal udfylde. Dette skaber værdi både for os, vores kunder 
+			og deres kunder, og etablerer på samme tid også en stærk base til gensidig tillid og langtids samarbejde.",
 		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
 		"serviceDetailWebDesignFaq" => "DA - webdes FAQ 1|bla bla bla en 1||DA - webdes FAQ 2|bla bla en 2||DA - webdes FAQ 3|bla bla bla en 3",
+		
+		"aboutPageUpperSectionTagline" => "Om Trepavo",
+		"aboutPageUpperSectionTitle" => "Lær os at kende",
+		"aboutPageUpperSectionMainText" => "Vores virksomhed er opstået af et særligt behov.",
+		"aboutPageUpperSectionBottomText" => "Vi tilbyder integrerede marketing løsninger",
+		"aboutPageLowerSectionTagline" => "Dit kreative mediabureau",
+		"aboutPageLowerSectionTitle" => "Vi tilbyder integrerede media løsninger",
+		"aboutPageLowerSectionPoints" => "Pålidelig||Det bedste team",
+		"aboutPageLowerSectionBottomText" => "Vi elsker at arbejde tæt sammen med vores kunder for at opnå de bedste resultater.",
+		"aboutPageLowerSectionFaq" => "DA-We Help to Create Visual Strategies|There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
+									   ||DA-Motion Graphics & Animations|There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
+									   ||DA-We Help to Achieve Mutual Goals|There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.",
+
+		
+		"presentationVideoTitle" => "Video title DA",
+
+		
 	);
 ?>

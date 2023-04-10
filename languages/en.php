@@ -81,13 +81,25 @@
 		"serviceDetailGraphicDesignBenefitList" => "EN - Benefit 1||EN - Benefit 2||EN - Benefit 3",
 		"serviceDetailGraphicDesignFaq" => "EN - FAQ 1|bla bla bla en 1||EN - FAQ 2|bla bla en 2||EN - FAQ 3|bla bla bla en 3",
 		"serviceDetailWebDesignText" => 
-			"EN - webdes - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
-			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
-			text of the printing and typesetting industry.",
+			"We think that a website is much more than the simple online presence of a company. This is why we, at Trepavo, take our time to 
+			understand key features about our clients like the business model, the target audience and what the main purpose of their website should be.
+			This creates value for both us, our customers and their customers, and establishes in the same time a solid base for mutual trust and long term collaboration.",
 		"serviceDetailWebDesignBenefitList" => "EN - Benefit webdes 1||EN - Benefit webdes 2||EN - Benefit webdes 3",
 		"serviceDetailWebDesignFaq" => "EN - webdes FAQ 1|bla bla bla en 1||EN - webdes FAQ 2|bla bla en 2||EN - webdes FAQ 3|bla bla bla en 3",
 			
-		
+		"aboutPageUpperSectionTagline" => "About Trepavo",
+		"aboutPageUpperSectionTitle" => "Get to know us",
+		"aboutPageUpperSectionMainText" => "Our company was born from the need of a customer segment.",
+		"aboutPageUpperSectionBottomText" => "Providing integrated marketing solutions",
+		"aboutPageLowerSectionTagline" => "Your creative agency",
+		"aboutPageLowerSectionTitle" => "Our agency all solutions",
+		"aboutPageLowerSectionPoints" => "EN-Reliable and proven||EN-Best team members",
+		"aboutPageLowerSectionBottomText" => "We love to work closely together with our clients for achieving the best results.",
+		"aboutPageLowerSectionFaq" => "We Help to Create Visual Strategies|There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
+									   ||Motion Graphics & Animations|There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.
+									   ||We Help to Achieve Mutual Goals|There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.",
+
+		"presentationVideoTitle" => "Design <span>Studio</span> that gets <br> excited about",
 		
 	);
 ?>
