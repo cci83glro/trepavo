@@ -23,38 +23,11 @@
                 <p class="service-details__benefits-text">Duis aute irure dolor in simply
                     free text exist on reprehende voluptate velit esse cillum.</p>
                 <ul class="list-unstyled service-details__benefits-list">
-                    <li>
-                        <div class="icon">
-                            <span class="icon-check"></span>
-                        </div>
-                        <div class="text">
-                            <p>Nsectetur cing elit</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon">
-                            <span class="icon-check"></span>
-                        </div>
-                        <div class="text">
-                            <p>Suspe ndisse suscip sagittis leo</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon">
-                            <span class="icon-check"></span>
-                        </div>
-                        <div class="text">
-                            <p>Entum estib dignissim posuere</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon">
-                            <span class="icon-check"></span>
-                        </div>
-                        <div class="text">
-                            <p>If you are going to use a pass</p>
-                        </div>
-                    </li>
+                    <?php
+                        foreach (explode("||", $service_detail_benefit_list) as $benefit_text) {
+                            include "service-details-benefit-template.php";
+                        }
+                    ?>
                 </ul>
             </div>
         </div>
@@ -66,45 +39,12 @@
     </div>
 </div>
 <div class="service-details__faq">
-    <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-        <div class="accrodion active">
-            <div class="accrodion-title">
-                <h4>We Help to Create Visual Strategies</h4>
-            </div>
-            <div class="accrodion-content">
-                <div class="inner">
-                    <p>There are many variations of passages the majority have suffered
-                        alteration in some fo injected humour, simply free text available in
-                        the market of loram ipsum where it is not or randomised words
-                        believable.</p>
-                </div><!-- /.inner -->
-            </div>
-        </div>
-        <div class="accrodion">
-            <div class="accrodion-title">
-                <h4>Motion Graphics & Animations</h4>
-            </div>
-            <div class="accrodion-content">
-                <div class="inner">
-                    <p>There are many variations of passages the majority have suffered
-                        alteration in some fo injected humour, simply free text available in
-                        the market of loram ipsum where it is not or randomised words
-                        believable.</p>
-                </div><!-- /.inner -->
-            </div>
-        </div>
-        <div class="accrodion last-chiled">
-            <div class="accrodion-title">
-                <h4>We Help to Achieve Mutual Goals</h4>
-            </div>
-            <div class="accrodion-content">
-                <div class="inner">
-                    <p>There are many variations of passages the majority have suffered
-                        alteration in some fo injected humour, simply free text available in
-                        the market of loram ipsum where it is not or randomised words
-                        believable.</p>
-                </div><!-- /.inner -->
-            </div>
-        </div>
+    <div class="accordion-grp" data-grp-name="faq-one-accordion">
+        <?php
+            foreach (explode("||", $service_detail_faq) as $faq_item) {
+                $faq_item_parts = explode("|", $faq_item);
+                include "service-details-faq-item-template.php";
+            }
+        ?>
     </div>
 </div>

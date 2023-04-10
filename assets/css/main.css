@@ -3213,7 +3213,7 @@ ul {
     display: block;
 }
 
-.faq-one-accrodion .accrodion {
+.faq-one-accordion .accordion {
     position: relative;
     display: block;
     -webkit-transition: all 500ms ease;
@@ -3223,7 +3223,7 @@ ul {
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, .05);
 }
 
-.faq-one-accrodion .accrodion:before {
+.faq-one-accordion .accordion:before {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -3237,11 +3237,11 @@ ul {
     z-index: 1;
 }
 
-.faq-one-accrodion .accrodion.active:before {
+.faq-one-accordion .accordion.active:before {
     transform: scaleY(1);
 }
 
-.faq-one-accrodion .accrodion-title {
+.faq-one-accordion .accordion-title {
     position: relative;
     display: block;
     cursor: pointer;
@@ -3251,7 +3251,7 @@ ul {
     transition-delay: 0.1s;
 }
 
-.faq-one-accrodion .accrodion-title h4 {
+.faq-one-accordion .accordion-title h4 {
     margin: 0;
     font-size: 16px;
     line-height: 26px;
@@ -3262,19 +3262,19 @@ ul {
     transition: all 500ms ease;
 }
 
-.faq-one-accrodion .accrodion+.accrodion {
+.faq-one-accordion .accordion+.accordion {
     margin-top: 20px;
 }
 
-.faq-one-accrodion .accrodion.active .accrodion-title {
+.faq-one-accordion .accordion.active .accordion-title {
     background-color: var(--base-color);
 }
 
-.faq-one-accrodion .accrodion.active .accrodion-title h4 {
+.faq-one-accordion .accordion.active .accordion-title h4 {
     color: var(--black-color);
 }
 
-.faq-one-accrodion .accrodion-title h4::before {
+.faq-one-accordion .accordion-title h4::before {
     content: "\e912";
     font-family: 'icomoon' !important;
     font-size: 12px;
@@ -3295,7 +3295,7 @@ ul {
     transition: all 500ms ease;
 }
 
-.faq-one-accrodion .accrodion.active .accrodion-title h4::before {
+.faq-one-accordion .accordion.active .accordion-title h4::before {
     content: "\e913";
     color: var(--black-color);
 
@@ -3308,17 +3308,17 @@ ul {
     align-items: center;
 }
 
-.faq-one-accrodion .accrodion-content {
+.faq-one-accordion .accordion-content {
     position: relative;
     padding: 0px 40px 29px;
     margin-top: -13px;
 }
 
-.faq-one-accrodion .accrodion.active .accrodion-content {
+.faq-one-accordion .accordion.active .accordion-content {
     background-color: var(--base-color);
 }
 
-.faq-one-accrodion .accrodion-content p {
+.faq-one-accordion .accordion-content p {
     font-size: 16px;
     margin: 0;
     line-height: 32px;
@@ -5758,11 +5758,11 @@ ul {
     margin-top: 60px;
 }
 
-.service-details__faq .faq-one-accrodion .accrodion {
+.service-details__faq .faq-one-accordion .accordion {
     border: 1px solid var(--bdr-color);
 }
 
-.service-details__faq .faq-one-accrodion .accrodion:before {
+.service-details__faq .faq-one-accordion .accordion:before {
     top: -1px;
     left: -1px;
     bottom: -1px;

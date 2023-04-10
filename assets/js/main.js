@@ -1,30 +1,6 @@
 (function ($) {
   "use strict";
 
-  $(".service-detail-link").on("click", function (event) {
-    event.preventDefault();
-    var url = $(this).attr('href');
-    $(this).closest('ul').children('li').removeClass('current');
-    var liToMark = $(this).closest('li');
-
-    // $.ajax({
-		// 	type: "POST",
-		// 	url: 'service-detail.php',
-		// 	data: { serviceDetailUrl : url},
-		// 	timeout: 6000,
-		// 	success: function(data) {
-		// 		$('#service-details-container').html(data['message']);
-		// 	}
-		// });
-
-    $.post( "service-detail.php", { serviceDetailUrl : url }, 
-      function(data) {
-        $(liToMark).addClass('current');
-        $('#service-details-container').hide().html(data['message']).fadeIn(1000);
-      }, "json");
-    
-  });
-
   $('#menu-about').click(
     function(e) {
       $.ajax({
@@ -99,40 +75,42 @@
     );
   }
 
-  // Accrodion
-  if ($(".accrodion-grp").length) {
-    var accrodionGrp = $(".accrodion-grp");
-    accrodionGrp.each(function () {
-      var accrodionName = $(this).data("grp-name");
-      var Self = $(this);
-      var accordion = Self.find(".accrodion");
-      Self.addClass(accrodionName);
-      Self.find(".accrodion .accrodion-content").hide();
-      Self.find(".accrodion.active").find(".accrodion-content").show();
-      accordion.each(function () {
-        $(this)
-          .find(".accrodion-title")
-          .on("click", function () {
-            if ($(this).parent().hasClass("active") === false) {
-              $(".accrodion-grp." + accrodionName)
-                .find(".accrodion")
-                .removeClass("active");
-              $(".accrodion-grp." + accrodionName)
-                .find(".accrodion")
-                .find(".accrodion-content")
-                .slideUp();
-              $(this).parent().addClass("active");
-              $(this)
-                .parent()
-                .find(".accrodion-content")
-                .slideDown();
-            }
-          });
+  var loadAccordion = function () {
+    // accordion
+    if ($(".accordion-grp").length) {
+      var accordionGrp = $(".accordion-grp");
+      accordionGrp.each(function () {
+        var accordionName = $(this).data("grp-name");
+        var Self = $(this);
+        var accordion = Self.find(".accordion");
+        Self.addClass(accordionName);
+        Self.find(".accordion .accordion-content").hide();
+        Self.find(".accordion.active").find(".accordion-content").show();
+        accordion.each(function () {
+          $(this)
+            .find(".accordion-title")
+            .on("click", function () {
+              if ($(this).parent().hasClass("active") === false) {
+                $(".accordion-grp." + accordionName)
+                  .find(".accordion")
+                  .removeClass("active");
+                $(".accordion-grp." + accordionName)
+                  .find(".accordion")
+                  .find(".accordion-content")
+                  .slideUp();
+                $(this).parent().addClass("active");
+                $(this)
+                  .parent()
+                  .find(".accordion-content")
+                  .slideDown();
+              }
+            });
+        });
       });
-    });
+    }
   }
 
-
+  loadAccordion();
 
   // Project One Carousel
   if ($(".project-one__carousel").length) {
@@ -791,5 +769,22 @@
       }
     }
   });
+
+  $(".service-detail-link").on("click", function (event) {
+    event.preventDefault();
+    var url = $(this).attr('href');
+    $(this).closest('ul').children('li').removeClass('current');
+    var liToMark = $(this).closest('li');
+
+    $.post( "service-detail.php", { serviceDetailUrl : url }, 
+      function(data) {
+        $(liToMark).addClass('current');
+        $('#service-details-container').hide().html(data['message']).fadeIn(1000);
+        loadAccordion();
+      }, "json");
+    
+  });
+
+  $('#services-list-filter > li:first-child > a:first-child').trigger("click");
 
 })(jQuery);

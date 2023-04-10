@@ -16,7 +16,7 @@
                 <div class="service-details__sidebar">
                     <div class="service-details__sidebar-service">
                         <h4 class="service-details__sidebar-title">Categories</h4>
-                        <ul class="service-details__sidebar-service-list list-unstyled">
+                        <ul id="services-list-filter" class="service-details__sidebar-service-list list-unstyled">
                             <li>
                                 <a class="service-detail-link" href="service-details-graphic-design.php">
                                     <?=$lang["ourServicesGraphicDesignNoBr"];?>
@@ -29,16 +29,6 @@
                                     <span class="icon-arrow-right"></span>
                                 </a>
                             </li>
-                            <li><a href="digital-marketing.html">Digital Marketing <span
-                                        class="icon-arrow-right"></span></a></li>
-                            <li><a href="graphic-designing.html">Graphic Designing <span
-                                        class="icon-arrow-right"></span></a></li>
-                            <li><a href="website-development.html">Website Development <span
-                                        class="icon-arrow-right"></span></a></li>
-                            <li><a href="social-marketing.html">Social Marketing <span
-                                        class="icon-arrow-right"></span></a></li>
-                            <li><a href="content-writing.html">Content Writting <span
-                                        class="icon-arrow-right"></span></a></li>
                         </ul>
                     </div>
                     <div class="service-details__need-help">

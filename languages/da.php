@@ -79,9 +79,13 @@
 			"DA - grades - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
 			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
 			text of the printing and typesetting industry.",
+		"serviceDetailGraphicDesignBenefitList" => "DA - Benefit 1||DA - Benefit 2||DA - Benefit 3",
+		"serviceDetailGraphicDesignFaq" => "DA - FAQ 1|bla bla bla en 1||DA - FAQ 2|bla bla en 2||DA - FAQ 3|bla bla bla en 3",
 		"serviceDetailWebDesignText" => 
 			"DA - webdes - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
 			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
-			text of the printing and typesetting industry."
+			text of the printing and typesetting industry.",
+		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
+		"serviceDetailWebDesignFaq" => "DA - webdes FAQ 1|bla bla bla en 1||DA - webdes FAQ 2|bla bla en 2||DA - webdes FAQ 3|bla bla bla en 3",
 	);
 ?>
