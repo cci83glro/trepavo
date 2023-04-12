@@ -6,22 +6,18 @@
     <p class="service-details__text"><?=$service_detail_text;?></p>
 </div>
 <ul class="service-details__points list-unstyled">
-    <li>
-        <h4>high quality project</h4>
-        <div class="service-details__points-count"></div>
-    </li>
-    <li>
-        <h4>Fast & relaible service</h4>
-        <div class="service-details__points-count"></div>
-    </li>
+    <?php
+        foreach (explode("||", $service_detail_points) as $point_text) {
+            include "service-details-point-template.php";
+        }
+    ?>
 </ul>
 <div class="service-details__benefits">
     <div class="row">
         <div class="col-xl-6">
             <div class="service-details__benefits-content">
-                <h3 class="service-details__benefits-title">Our Benefits</h3>
-                <p class="service-details__benefits-text">Duis aute irure dolor in simply
-                    free text exist on reprehende voluptate velit esse cillum.</p>
+                <h3 class="service-details__benefits-title"><?=$service_detail_benefits_title;?></h3>
+                <p class="service-details__benefits-text"><?=$service_detail_benefits_text;?></p>
                 <ul class="list-unstyled service-details__benefits-list">
                     <?php
                         foreach (explode("||", $service_detail_benefit_list) as $benefit_text) {

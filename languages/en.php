@@ -36,7 +36,7 @@
 		"ourServicesSectionTitleTitle" => "We Shape the <br> Perfect solution",
 		"ourServicesSectionTopRightText" => "We never take the road of &#x22;good enough&#x22;, but we always strive to find the best solutions, covering the customer's whole marketing lifecycle.",
 		"ourServicesGraphicDesign" => "Graphic<br>design",
-		"ourServicesGraphicDesignNoBr" => "Graphic design",
+		"ourServicesGraphicDesignNoBr" => "Brand identity",
 		"ourServicesWebDesign" => "Web<br>design",
 		"ourServicesWebDesignNoBr" => "Web design",
 		"ourServicesMobileApps" => "Mobile<br>apps",
@@ -79,13 +79,25 @@
 			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
 			text of the printing and typesetting industry.",
 		"serviceDetailGraphicDesignBenefitList" => "EN - Benefit 1||EN - Benefit 2||EN - Benefit 3",
-		"serviceDetailGraphicDesignFaq" => "EN - FAQ 1|bla bla bla en 1||EN - FAQ 2|bla bla en 2||EN - FAQ 3|bla bla bla en 3",
+		"serviceDetailGraphicDesignFaq" => 
+			"Hvorfor er det vigtigt at have et godt brand?|Brand identity plays a crucial role in differentiating your business from the rest of the competitors in the same market.
+			A strong brand identity can also make your products and services stand out from the other similar ones within the same business area, guaranteeing in the same time a
+			unique perception by the consumers.
+			||Hvordan skaber man et godt brand?|A strong brand appeals always to its target audience. This is why the first step in the branding process should always be the research
+			of the intended audience for the offered products and services, identifying how the value proposition is positioned with respect to the competitors. Moreover, everything from logo to chosen colors,
+			presentation videos, website, mobile app and marketing campaigns should be in perfect harmony with each other, as all these elements will work together and create the unitary message to be received
+			by the target group
+			||EN - FAQ 3|bla bla bla en 3",
+		
 		"serviceDetailWebDesignText" => 
 			"We think that a website is much more than the simple online presence of a company. This is why we, at Trepavo, take our time to 
 			understand key features about our clients like the business model, the target audience and what the main purpose of their website should be.
 			This creates value for both us, our customers and their customers, and establishes in the same time a solid base for mutual trust and long term collaboration.",
 		"serviceDetailWebDesignBenefitList" => "EN - Benefit webdes 1||EN - Benefit webdes 2||EN - Benefit webdes 3",
-		"serviceDetailWebDesignFaq" => "EN - webdes FAQ 1|bla bla bla en 1||EN - webdes FAQ 2|bla bla en 2||EN - webdes FAQ 3|bla bla bla en 3",
+		"serviceDetailWebDesignFaq" =>
+			"EN - webdes FAQ 1|bla bla bla en 1
+			||EN - webdes FAQ 2|bla bla en 2
+			||EN - webdes FAQ 3|bla bla bla en 3",
 			
 		"aboutPageUpperSectionTagline" => "About Trepavo",
 		"aboutPageUpperSectionTitle" => "Get to know us",

@@ -36,7 +36,7 @@
 		"ourServicesSectionTitleTitle" => "Sammen finder vi den<br>Perfekte løsning",
 		"ourServicesSectionTopRightText" => "Vi går aldrig &#x22;godt nok&#x22; vejen, men vi stræber altid efter at finde den bedste løsning, som dækker kundens hele markedsføring livscyklus.",
 		"ourServicesGraphicDesign" => "Grafisk<br>design",
-		"ourServicesGraphicDesignNoBr" => "Grafisk design",
+		"ourServicesGraphicDesignNoBr" => "Brand identitet",
 		"ourServicesWebDesign" => "Web<br>design",
 		"ourServicesWebDesignNoBr" => "Web design",
 		"ourServicesMobileApps" => "Mobile<br>apps",
@@ -76,17 +76,61 @@
 		"footerTopTitle" => "Tag fat i os",
 		
 		"serviceDetailGraphicDesignText" => 
-			"DA - grades - Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et
-			quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy
-			text of the printing and typesetting industry.",
-		"serviceDetailGraphicDesignBenefitList" => "DA - Benefit 1||DA - Benefit 2||DA - Benefit 3",
-		"serviceDetailGraphicDesignFaq" => "DA - FAQ 1|bla bla bla en 1||DA - FAQ 2|bla bla en 2||DA - FAQ 3|bla bla bla en 3",
+			"I vores optik betyder at bygge et brands identitet meget mere end at levere grafiske løsninger. 
+			Derfor er det essentielt for os at forstå din forretningsprofil og målgruppe, for at kunne skabe tilpasset visuel kommunikation og wrappe budskabet i den rigtige målrettede synlige form.",
+		"serviceDetailGraphicDesignPoints" => "Dit brands identitet||Fokus på detaljer||Fortæl din historie visuelt",
+		"serviceDetailGraphicDesignBenefitsTitle" => "Vores tilbud",
+		"serviceDetailGraphicDesignBenefitsText" => "Vi kan tilbyde bl.a. følgende ydelser:",
+		"serviceDetailGraphicDesignBenefitList" => "Fotografering og videooptagelse||Redigering af billeder og videoer||Avanceret grafisk manipulation||Stockfoto i forskellige formater",
+		"serviceDetailGraphicDesignFaq" => 
+			"Hvor vigtigt er at have en god brand identitet?|Brand identitet spiller en afgørende rolle i at differentiere ens forretning fra de andre kompetitorerne på markedet. Et stærkt brand gør, at ens produkter eller services skelner sig ud af de andre lignende
+			||DA - FAQ 2|bla bla en 2||DA - FAQ 3|bla bla bla en 3",
+
 		"serviceDetailWebDesignText" => 
 			"Vi synes, at en hjemmeside er meget mere end bare et firmas online tilstedeværelse. Det er derfor vi, hos Trepavo, bruger passende lang tid til at forstå nøglefakta om
 			vores kunder såsom deres forretningsmodel, deres målgrupper og ikke mindst hvad er det primære formål, hjemmesiden skal udfylde. Dette skaber værdi både for os, vores kunder 
 			og deres kunder, og etablerer på samme tid også en stærk base til gensidig tillid og langtids samarbejde.",
 		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
-		"serviceDetailWebDesignFaq" => "DA - webdes FAQ 1|bla bla bla en 1||DA - webdes FAQ 2|bla bla en 2||DA - webdes FAQ 3|bla bla bla en 3",
+		"serviceDetailWebDesignFaq" =>
+			"Hvor vigtigt er at have en god hjemmeside?|Lang de fleste kunder kommer ikke længere ind i butikken ad den fysiske dør, men verden er blevet meget mere digitaliseret. 
+			Og i de fleste tilfælde er hjemmesiden det første, de potentielle kunder oplever, når de skal finde deres næste butik, leverandør eller samarbejdspartner.
+			F.eks. viser statistikkerne, at når en hjemmeside tager længere end 3 sek. for at loade, så forlader brugerne den i meget mere omfang end ellers. 
+			Den samme behandling får de portaler hvor brugervenligheden mangler delvist eller helt, som lider er driftfejl eller dem som rammer helt skævt målgruppen. 
+			Alle disse elementer påvirker konverteringstallene negativt.			
+			||Kan jeg selv styre hvordan min hjemmeside ser ud?|Vores kunder får muligheden til at sætte deres præg både på strukturen og indholdet af deres nye hjemmeside eller mobil app.
+			Vi arbejder også I stor stil med CMS (Content Management Systems) løsninger, som kunderne kan bruge til at kontrollere indholdet på hjemmesiden.
+			||Hvilke udfordringer ser vi oftest hos kunderne?|Vi plejer at se mange eksempler på hjemmesider, som ikke er særligt SEO-venlige af forskellige grunde: 
+			forkert kodesemantik, lav hastighed ved indlæsning, mangelfuld funktionalitet eller helt basale aspekter som inaktive links.
+			Manglende integration med de øvrige systemer og data redundans er et andet hyppigt eksempel for forbedringspotentiale",
+			
+		"serviceDetailSeoAnalyticsText" => 
+			"bla bla.",
+		"serviceDetailSeoAnalyticsBenefitList" => "Trend- og målgruppeanalyse||Besøger vs konverteringer",
+		"serviceDetailSeoAnalyticsFaq" =>
+			"Hvordan kommer man højere oppe i Google søgning?|Man bliver nødt til også at kigge på hjemmesiden fra Google's perspektiv. 
+			Google robotterne går ikke så meget op i hjemmesidens udseende eller brugervenlighed, men analyserer først og fremmest det tekniske fundament og indholdet, når hjemmesidens skal indekseres.
+			Hvis disse er på plads, så har man er godt udgangspunkt for at rankere højere i listen med organiske søgningsresultater.
+			||Hvad betyder en god SEO strategi?|Dette er det vigtigste spørgsmål, men svaret ligger meget sjældent ud af landevejen. 
+			Man bør starte med at sikre et godt teknisk fundament, som er søgemaskiners optimeret, og forstå hvordan SEO skal konfigureres til at ramme målgruppene. 
+			I lang de fleste tilfælde snakker vi om en iterativ proces, hvor man bruger konstant statistisk data kommende fra de analytiske værktøjer for at træffe beslutninger om de næstkommende SEO tiltag, hvis nødvendigt.
+			||Hvilke udfordringer ser vi oftest hos kunderne?|Vores erfaring viser at, disse udfordringer spænder ret bredt afhængig af forretningskonteksten, så er der alligevel nogle fælles punkter, man skal være opmærksom på:
+			indhold som er relevant for brugerne, de rigtige søgeord som fremfører forretningen, indhold som ikke er duplikeret, tilgængelighed, hastigheden ved indlæsning, kodens semantiske struktur, ubrugte scripts som loades unødvendigt osv.",
+
+		"serviceDetailSoMeMarketingText" => 
+			"bla bla.",
+		"serviceDetailSoMeMarketingBenefitList" => "Målgruppe-tilpasset kommunikering||Data drevet analytics",
+		"serviceDetailSoMeMarketingFaq" =>
+			"Hvordan fører man en markedsføring kampagne, som genererer optimale resultater?|Vi synes et af de vigtigste punkter, når man sidder og planlægger en ny kampagne, er at udforme materialet ud fra på en datadrevet måde.
+			Dette gør, at vi kan skabe meningsfuld kommunikering på tværs af de forskellige kanaler og opdigte fleksible kampagner, som er tilpasset de tendenser vi ser hos de forskellige målgrupper.
+			||Hvor vigtigt er at have det rigtige strategi, når man planlægger en ny kampagne?|Mange virksomheder er i dag på sociale medier, men det er ikke nok udelukkende at være tilstede på de sociale platforme for at nå ud til brugerne.
+			Det kræver en klar strategi for, hvordan man bedst når sin målgruppe med relevant indhold. 
+			I et marked, der kun bliver mere og mere avanceret, hjælper vi dig med at udvælge medier, hvor din målgruppe befinder sig. 
+			Vi har en holistisk tilgang til opgaven og sørger for, at din virksomheds stemme og visuelle identitet er gennemgående på tværs af kanaler..
+			||Hvad for nogle udfordringer ser vi oftest hos vores kunder?|
+			Vores erfaring viser, at der generelt kan opstå en del forvirring omkring hvilke markedsføring kanaler der skal bruges afhængig af forretningsområdet, eller hvordan de bruges rigtigt.
+			Men selv når den korrekte implementering er landet på plads, så plejer man at kæmpe med at følge op på indsatsne gennem f.eks. automatisk rapportering, som skal give mere tid til andre strategiske opgaver,
+			eller med at analysere det statistiske data til evaluerings formål.",
+
 		
 		"aboutPageUpperSectionTagline" => "Om Trepavo",
 		"aboutPageUpperSectionTitle" => "Lær os at kende",
