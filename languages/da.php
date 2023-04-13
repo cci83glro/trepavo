@@ -35,17 +35,16 @@
 		"ourServicesSectionTitleTagline" => "Vores løsninger",
 		"ourServicesSectionTitleTitle" => "Sammen finder vi den<br>Perfekte løsning",
 		"ourServicesSectionTopRightText" => "Vi går aldrig &#x22;godt nok&#x22; vejen, men vi stræber altid efter at finde den bedste løsning, som dækker kundens hele markedsføring livscyklus.",
-		"ourServicesGraphicDesign" => "Grafisk<br>design",
+		"ourServicesGraphicDesign" => "Brand<br>identitet",
 		"ourServicesGraphicDesignNoBr" => "Brand identitet",
 		"ourServicesWebDesign" => "Web<br>design",
 		"ourServicesWebDesignNoBr" => "Web design",
 		"ourServicesMobileApps" => "Mobile<br>apps",
 		"ourServicesMobileAppsNoBr" => "Mobile apps",
-		"ourServicesSoMe" => "Social media<br>marketing",
-		"ourServicesSoMeNoBr" => "Social media marketing",
-		"ourServicesSeoAndAnalytics" => "SEO og<br>analytics",
-		"ourServicesSeoAndAnalyticsNoBr" => "SEO og analytics",
-		
+		"ourServicesSeoAnalytics" => "SEO og<br>analytics",
+		"ourServicesSeoAnalyticsNoBr" => "SEO og analytics",
+		"ourServicesSoMeMarketing" => "Social media<br>markedsføring",
+		"ourServicesSoMeMarketingNoBr" => "Social media markedsføring",
 		
 		"ourProjectsSectionTitleTagline" => "Vores arbejde",
 		"ourProjectsSectionTitleTitle" => "Seneste projekter",
@@ -87,21 +86,22 @@
 			||DA - FAQ 2|bla bla en 2||DA - FAQ 3|bla bla bla en 3",
 
 		"serviceDetailWebDesignText" => 
-			"Vi synes, at en hjemmeside er meget mere end bare et firmas online tilstedeværelse. Det er derfor vi, hos Trepavo, bruger passende lang tid til at forstå nøglefakta om
+			"Vi synes, at en hjemmeside er meget mere end bare virksomhedens online tilstedeværelse. Det er derfor vi, hos Trepavo, bruger passende lang tid til at forstå nøglefakta om
 			vores kunder såsom deres forretningsmodel, deres målgrupper og ikke mindst hvad er det primære formål, hjemmesiden skal udfylde. Dette skaber værdi både for os, vores kunder 
 			og deres kunder, og etablerer på samme tid også en stærk base til gensidig tillid og langtids samarbejde.",
 		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
 		"serviceDetailWebDesignFaq" =>
-			"Hvor vigtigt er at have en god hjemmeside?|Lang de fleste kunder kommer ikke længere ind i butikken ad den fysiske dør, men verden er blevet meget mere digitaliseret. 
+			"Hvor vigtig er en god hjemmeside?|Lang de fleste kunder kommer ikke længere ind i butikken ad den fysiske dør, men verden er blevet meget mere digitaliseret. 
 			Og i de fleste tilfælde er hjemmesiden det første, de potentielle kunder oplever, når de skal finde deres næste butik, leverandør eller samarbejdspartner.
 			F.eks. viser statistikkerne, at når en hjemmeside tager længere end 3 sek. for at loade, så forlader brugerne den i meget mere omfang end ellers. 
 			Den samme behandling får de portaler hvor brugervenligheden mangler delvist eller helt, som lider er driftfejl eller dem som rammer helt skævt målgruppen. 
 			Alle disse elementer påvirker konverteringstallene negativt.			
 			||Kan jeg selv styre hvordan min hjemmeside ser ud?|Vores kunder får muligheden til at sætte deres præg både på strukturen og indholdet af deres nye hjemmeside eller mobil app.
-			Vi arbejder også I stor stil med CMS (Content Management Systems) løsninger, som kunderne kan bruge til at kontrollere indholdet på hjemmesiden.
+			I design fasen arbejder vi tæt sammen med kunden og inddrager løbende feedback, for at kunne lave de eventuelle tilpasninger i god tid.
+			Vi tilbyder også CMS (Content Management Systems) løsninger, som kunderne kan bruge til selv at kontrollere indholdet på hjemmesiden, både før of efter lancering.
 			||Hvilke udfordringer ser vi oftest hos kunderne?|Vi plejer at se mange eksempler på hjemmesider, som ikke er særligt SEO-venlige af forskellige grunde: 
 			forkert kodesemantik, lav hastighed ved indlæsning, mangelfuld funktionalitet eller helt basale aspekter som inaktive links.
-			Manglende integration med de øvrige systemer og data redundans er et andet hyppigt eksempel for forbedringspotentiale",
+			Manglende integration med de øvrige systemer, som fører til unødvendig data redundans, er et andet hyppigt eksempel for forbedringspotentiale.",
 			
 		"serviceDetailSeoAnalyticsText" => 
 			"bla bla.",

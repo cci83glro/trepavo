@@ -29,6 +29,18 @@
                                     <span class="icon-arrow-right"></span>
                                 </a>
                             </li>
+                            <li>
+                                <a class="service-detail-link" href="service-details-seo-analytics.php">
+                                    <?=$lang["ourServicesSeoAnalyticsNoBr"];?>
+                                    <span class="icon-arrow-right"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="service-detail-link" href="service-details-some-marketing.php">
+                                    <?=$lang["ourServicesSoMeMarketingNoBr"];?>
+                                    <span class="icon-arrow-right"></span>
+                                </a>
+                            </li>
                         </ul>
                     </div>
                     <div class="service-details__need-help">

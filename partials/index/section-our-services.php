@@ -39,7 +39,7 @@
                         <div class="services-section__count"></div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                <!-- <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                     <div class="services-section__single">
                         <h3 class="services-section__title"><a href="mobile-application.html"><?=$lang['ourServicesMobileApps']?></a></h3>
                         <div class="services-section__icon">
@@ -47,23 +47,23 @@
                         </div>
                         <div class="services-section__count"></div>
                     </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms">
+                </div> -->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="500ms">
                     <!--Services One Single-->
                     <div class="services-section__single">
-                        <h3 class="services-section__title"><a href="social-marketing.html"><?=$lang['ourServicesSoMe']?></a></h3>
+                        <h3 class="services-section__title"><a href="digital-marketing.html"><?=$lang['ourServicesSeoAnalytics']?></a></h3>
                         <div class="services-section__icon">
-                            <span class="icon-bullhorn"></span>
+                            <span class="icon-recommend"></span>
                         </div>
                         <div class="services-section__count"></div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="500ms">
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms">
                     <!--Services One Single-->
                     <div class="services-section__single">
-                        <h3 class="services-section__title"><a href="digital-marketing.html"><?=$lang['ourServicesSeoAndAnalytics']?></a></h3>
+                        <h3 class="services-section__title"><a href="social-marketing.html"><?=$lang['ourServicesSoMeMarketing']?></a></h3>
                         <div class="services-section__icon">
-                            <span class="icon-recommend"></span>
+                            <span class="icon-bullhorn"></span>
                         </div>
                         <div class="services-section__count"></div>
                     </div>
