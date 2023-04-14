@@ -53,10 +53,10 @@
 		"testimonialsSectionTitleTitle" => "Our customers love us ...",
 		"testimonialsSectionVestmaegler" => "We have been collaborating with Trepavo since 2020. They helped us with logos, videos and social media projects.
 											Besides this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
-		"testimonialsSectionCentrumfoto" => "Jan - I have worked with Trepavo since 2020. They helped my businesses with logos, videos and social media projects.
-											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
-		"testimonialsSectionFrisoerenMaria" => "Maria - I have worked with Trepavo since 2020. They helped my businesses with logos, videos and social media projects.
-											Besides all this, Andreea is one of the best motivators, I know, and comes always with either a fresh perspective or new ideas, loads of positive energy and creativity.",
+		"testimonialsSectionCentrumfoto" => "We are very happy for our collaboration with Trepavo, as they have always been excellent at understanding our business model, 
+											target group and expectations, when we have to implement new SoMe campaigns. We are looking forward to more common projects!",
+		"testimonialsSectionFrisoerenMaria" => "It is always a pleasure to talk to Andreea from Trepavo, when I have to do graphical changes to my brand.
+												She comes always not only with valueable input, new ideas and beautiful results, but also positive attitude and good mood.",
 											
 		"ctaSectionTitle" => "We’re delivering the best customer experiences",
 		
@@ -89,8 +89,7 @@
 			||How can we also build a strong brand identity?|A strong brand appeals always to its target audience. This is why the first step in the branding process should always be the research
 			of the intended audience for the offered products and services, identifying how the value proposition is positioned with respect to the competitors. Moreover, everything from logo to chosen colors,
 			presentation videos, website, mobile app and marketing campaigns should be in perfect harmony with each other, as all these elements will work together and create the unitary message to be received
-			by the target group.
-			||EN - FAQ 3|bla bla bla en 3",
+			by the target group.",
 		
 		"serviceDetailWebDesignText" => 
 			"We think that a website is much more than the simple online presence of a company. This is why we, at Trepavo, take our time to 

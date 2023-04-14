@@ -53,10 +53,10 @@
 		"testimonialsSectionTitleTitle" => "Vores kunder elsker os ...",
 		"testimonialsSectionVestmaegler" => "Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
 											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
-		"testimonialsSectionCentrumfoto" => "Jan - Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
-											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
-		"testimonialsSectionFrisoerenMaria" => "Maria - Vi har arbejdet sammen med Trepavo siden 2020. De har hjulpet os med logoer, videoer og forskellige social media projekter.
-											Ydermere synes jeg, Andreea er en af de bedste motivatorer, jeg kender. Hun kommer altid med enten et friskt overblik eller nye ideer, masser af positiv evergi og kreativitet.",
+		"testimonialsSectionCentrumfoto" => "Vi er rigtig glade for vores samarbejde med Trepavo, da de plejer at være fremregende til at forstå vores forretningsmodel, målgruppe og forventninger, når der skal implementeres nye SoMe kampagner.
+											Vi ser frem til flere fælles projekter!",
+		"testimonialsSectionFrisoerenMaria" => "Det er altid en fornøjelse at tale sammen med Andreea fra Trepavo, når jeg skal lave grafiske opdateringer på mit visuelle brand.
+												Hun kommer altid ikke kun med værdifuldt input, nye ideer og flotte resultater, men også med positiv indstilling og godt humør.",
 		
 		"ctaSectionTitle" => "Vi leverer de bedste kundeoplevelser",
 		
@@ -83,12 +83,17 @@
 		"serviceDetailGraphicDesignBenefitList" => "Fotografering og videooptagelse||Redigering af billeder og videoer||Avanceret grafisk manipulation||Stockfoto i forskellige formater",
 		"serviceDetailGraphicDesignFaq" => 
 			"Hvor vigtigt er at have en god brand identitet?|Brand identitet spiller en afgørende rolle i at differentiere ens forretning fra de andre kompetitorerne på markedet. Et stærkt brand gør, at ens produkter eller services skelner sig ud af de andre lignende
-			||DA - FAQ 2|bla bla en 2||DA - FAQ 3|bla bla bla en 3",
+			||Hvordan kan I bygge en stærk brandidentitet op?|Et stærkt brand appellerer i høj grad til sin målgruppe. Det er derfor det første trin i brandingprocessen bør altid være at udforske
+			de primære målgrupper for de udbudte produkter og tjenester og identificere hvordan værditilbuddet er placeret i forhold til konkurrenterne. Desuden bør alt fra logo til udvalgte farver,
+			præsentationsvideoer, hjemmeside, mobilapp og marketingkampagner være i perfekt harmoni med hinanden, da alle disse elementer arbejder sammen til at skabe det primære budskab, som målgruppene modtager.",
 
 		"serviceDetailWebDesignText" => 
 			"Vi synes, at en hjemmeside er meget mere end bare virksomhedens online tilstedeværelse. Det er derfor vi, hos Trepavo, bruger passende lang tid til at forstå nøglefakta om
 			vores kunder såsom deres forretningsmodel, deres målgrupper og ikke mindst hvad er det primære formål, hjemmesiden skal udfylde. Dette skaber værdi både for os, vores kunder 
 			og deres kunder, og etablerer på samme tid også en stærk base til gensidig tillid og langtids samarbejde.",
+		"serviceDetailWebDesignPoints" => "Søgemaskineroptimering||Teknisk robusthed",
+		"serviceDetailWebDesignBenefitsTitle" => "How we create value",
+		"serviceDetailWebDesignBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
 		"serviceDetailWebDesignFaq" =>
 			"Hvor vigtig er en god hjemmeside?|Lang de fleste kunder kommer ikke længere ind i butikken ad den fysiske dør, men verden er blevet meget mere digitaliseret. 
@@ -105,6 +110,9 @@
 			
 		"serviceDetailSeoAnalyticsText" => 
 			"Vi tilbyder komplete data-drevet løsninger til SEO og analytics, som dækker alt fra opsætningen af Google Analytics og Tag Manager til monitorering, rapportering og løbende optimering evt. gennem betalte Google Ads markedsføring kampagner.",
+		"serviceDetailSoMeMarketingPoints" => "Søgemaskineroptimering||Teknisk robusthed",
+		"serviceDetailSoMeMarketingBenefitsTitle" => "How we create value",
+		"serviceDetailSoMeMarketingBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSeoAnalyticsBenefitList" => "Trend- og målgruppeanalyse||Besøger vs konverteringer",
 		"serviceDetailSeoAnalyticsFaq" =>
 			"Hvordan kommer man højere oppe i Google søgning?|Man bliver nødt til også at kigge på hjemmesiden fra Google's perspektiv. 
@@ -120,6 +128,9 @@
 			"Gennem tiden har vi oplevet ret hyppigt, at der er mange virksomheder, som ikke udnytter det fulde potentiale af det guldgrube, som deres følgere på sociale media danner.
 			Det kan være at der mangler det krævede kendskab til de vigtigste værktøjer, som hjælper til push-marketing, eller der mangler en del forståelse for hvordan man kan måle og analysere SoMe resultaterne rigtigt.
 			Og det kan vi godt forstå, for det kræver erfaring og god forståelse af målgruppene for at ramme plet, når man skal ud med et nyt markedsføring tiltag.",
+		"serviceDetailSoMeMarketingPoints" => "Søgemaskineroptimering||Teknisk robusthed",
+		"serviceDetailSoMeMarketingBenefitsTitle" => "How we create value",
+		"serviceDetailSoMeMarketingBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSoMeMarketingBenefitList" => "Målgruppe-tilpasset kommunikering||Data drevet analytics",
 		"serviceDetailSoMeMarketingFaq" =>
 			"Hvordan fører man en markedsføring kampagne, som genererer optimale resultater?|Vi synes et af de vigtigste punkter, når man sidder og planlægger en ny kampagne, er at udforme materialet på en datadrevet måde.
