@@ -8,7 +8,8 @@
         <div class="projects-section__hover">
             <p class="projects-section__tagline"><?=$project_item_tagline?></p>
             <h3 class="projects-section__title">
-                <a href="<?=$project_item_url?>"><?=$project_item_title?></a>
+                <a href="<?=$project_item_url?>"><?=$project_item_title?></a> 
+                <p><?=$project_item_title?></p>
             </h3>
         </div>
     </div>

@@ -29,7 +29,7 @@
         </div>
         <div class="col-xl-6">
             <div class="service-details__benefits-img">
-                <img src="assets/images/resources/service-details__benefits-img.jpg" alt="">
+                <img src="assets/images/services/help_image.webp" alt="People needing help">
             </div>
         </div>
     </div>

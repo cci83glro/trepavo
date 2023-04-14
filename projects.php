@@ -19,9 +19,8 @@
                         <li data-filter=".filter-item" class="active"><span class="filter-text"><?=$lang["all"];?></span></li>
                         <li data-filter=".grades"><span class="filter-text"><?=$lang["ourServicesGraphicDesignNoBr"];?></span></li>
                         <li data-filter=".webdes"><span class="filter-text"><?=$lang["ourServicesWebDesignNoBr"];?></span></li>
-                        <li data-filter=".mobapp"><span class="filter-text"><?=$lang["ourServicesMobileAppsNoBr"];?></span></li>
-                        <li data-filter=".socmed"><span class="filter-text"><?=$lang["ourServicesSoMeNoBr"];?></span></li>
-                        <li data-filter=".seoana"><span class="filter-text"><?=$lang["ourServicesSeoAndAnalyticsNoBr"];?></span></li>
+                        <li data-filter=".seoana"><span class="filter-text"><?=$lang["ourServicesSeoAnalyticsNoBr"];?></span></li>
+                        <li data-filter=".socmed"><span class="filter-text"><?=$lang["ourServicesSoMeMarketingNoBr"];?></span></li>
                     </ul>
                 </div>
             </div>

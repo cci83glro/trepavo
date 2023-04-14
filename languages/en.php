@@ -114,7 +114,8 @@
 			is the missing integration with the other systems, such that unneeded data redundancy was introduced.",
 		
 		"serviceDetailSeoAnalyticsText" => 
-			"bla bla.",
+			"We offer integrated data-driven solutions for SEO and Analytics, which cover the entire cycle from setting Google Analytics and Tag Manager
+			to monitoring, reporting and eventually continuous optimization, eventually through paid Google Ads marketing campaigns.",
 		"serviceDetailSeoAnalyticsPoints" => "SEO optimization||Technical robustness||Customer friendly",
 		"serviceDetailSeoAnalyticsBenefitsTitle" => "How we create value",
 		"serviceDetailSeoAnalyticsBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
@@ -130,22 +131,24 @@
 			content that is relevant to the users, identifying the right keywords that promote the business, non-duplicate content, accessibility, loading speed, the semantic structure of the code, unused scripts that are loaded unnecessarily etc..",
 
 		"serviceDetailSoMeMarketingText" => 
-			"bla bla.",
+			"During the time we have encountered many examples of companies, which do not exploit the full potential of the gold mine represented by their socal media followers.
+			This is because there is usually not enough knowledge of the most important tools, which help implementing the push-marketing campaigns, or misunderstanding about how SoMe results should be measured and interpreted correctly.
+			And we can easily understand these difficulties, as some experience and a good understanding of the target groups is needed, in order to implement a successful marketing campaign.",
 		"serviceDetailSoMeMarketingPoints" => "SEO optimization||Technical robustness||Customer friendly",
 		"serviceDetailSoMeMarketingBenefitsTitle" => "How we create value",
 		"serviceDetailSoMeMarketingBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSoMeMarketingBenefitList" => "Målgruppe-tilpasset kommunikering||Data drevet analytics",
 		"serviceDetailSoMeMarketingFaq" =>
-			"How to drive a marketing campaign that generates optimal results?|We think one of the most important points when planning a new campaign is to design the material based on that in a data-driven way.
-			This means that we can create meaningful communication across the various channels and create flexible campaigns that are adapted to the trends we see among the various target groups.
-			||How important is having the right strategy when planning a new campaign?|Many companies today are on social media, but it is not enough to be present exclusively on the social platforms to reach users.
-			It requires a clear strategy for how best to reach your target audience with relevant content.
-			In a market that is only becoming more and more advanced, we help you select media where your target group is located.
-			We have a holistic approach to the task and ensure that your company's voice and visual identity is consistent across channels.
-			||What kind of challenges do we most often see with our customers?|
-			Our experience shows that there can generally be a lot of confusion about which marketing channels should be used depending on the business area, or how they are used correctly.
-			But even when the correct implementation is in place, you usually struggle to follow up on the efforts through e.g. automatic reporting, which should give more time for other strategic tasks,
-			or with analyzing the statistical data for evaluation purposes.",
+			"How to drive a marketing campaign with optimal results?|We think one of the most important points, when planning a new campaign, is to design the materials in a data-driven way.
+			This means that we can create meaningful communication across the various channels and create flexible campaigns that are adapted to the market trends, we see among the various target groups.
+			||How important is having the right strategy when planning a new marketing campaign?|Many companies are already present on social media, but it is not enough to be present exclusively on the social platforms to reach the targeted users.
+			It often requires a clear strategy in order to reach the target audience with relevant content.
+			In a market that is constantly becoming more advanced, we help you select the right media where your target group is most present.
+			We offer a holistic approach to the task and ensure that your company's voice and visual identity is consistent across the various communication channels.
+			||What challenges do we usually see at our customers?|
+			Our experience shows that there can generally be a lot of confusion about which marketing channels should be used, depending on the business area, or how they can be used correctly.
+			But even when the correct implementation is in place, it is usually a struggle to follow up through e.g. automatic reporting, which should give more time for other strategic tasks,
+			or to analyze the statistical data for evaluation purposes.",
 			
 		"aboutPageUpperSectionTagline" => "About Trepavo",
 		"aboutPageUpperSectionTitle" => "Get to know us",

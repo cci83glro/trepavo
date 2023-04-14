@@ -104,7 +104,7 @@
 			Manglende integration med de øvrige systemer, som fører til unødvendig data redundans, er et andet hyppigt eksempel for forbedringspotentiale.",
 			
 		"serviceDetailSeoAnalyticsText" => 
-			"bla bla.",
+			"Vi tilbyder komplete data-drevet løsninger til SEO og analytics, som dækker alt fra opsætningen af Google Analytics og Tag Manager til monitorering, rapportering og løbende optimering evt. gennem betalte Google Ads markedsføring kampagner.",
 		"serviceDetailSeoAnalyticsBenefitList" => "Trend- og målgruppeanalyse||Besøger vs konverteringer",
 		"serviceDetailSeoAnalyticsFaq" =>
 			"Hvordan kommer man højere oppe i Google søgning?|Man bliver nødt til også at kigge på hjemmesiden fra Google's perspektiv. 
@@ -117,10 +117,12 @@
 			indhold som er relevant for brugerne, de rigtige søgeord som fremfører forretningen, indhold som ikke er duplikeret, tilgængelighed, hastigheden ved indlæsning, kodens semantiske struktur, ubrugte scripts som loades unødvendigt osv.",
 
 		"serviceDetailSoMeMarketingText" => 
-			"bla bla.",
+			"Gennem tiden har vi oplevet ret hyppigt, at der er mange virksomheder, som ikke udnytter det fulde potentiale af det guldgrube, som deres følgere på sociale media danner.
+			Det kan være at der mangler det krævede kendskab til de vigtigste værktøjer, som hjælper til push-marketing, eller der mangler en del forståelse for hvordan man kan måle og analysere SoMe resultaterne rigtigt.
+			Og det kan vi godt forstå, for det kræver erfaring og god forståelse af målgruppene for at ramme plet, når man skal ud med et nyt markedsføring tiltag.",
 		"serviceDetailSoMeMarketingBenefitList" => "Målgruppe-tilpasset kommunikering||Data drevet analytics",
 		"serviceDetailSoMeMarketingFaq" =>
-			"Hvordan fører man en markedsføring kampagne, som genererer optimale resultater?|Vi synes et af de vigtigste punkter, når man sidder og planlægger en ny kampagne, er at udforme materialet ud fra på en datadrevet måde.
+			"Hvordan fører man en markedsføring kampagne, som genererer optimale resultater?|Vi synes et af de vigtigste punkter, når man sidder og planlægger en ny kampagne, er at udforme materialet på en datadrevet måde.
 			Dette gør, at vi kan skabe meningsfuld kommunikering på tværs af de forskellige kanaler og opdigte fleksible kampagner, som er tilpasset de tendenser vi ser hos de forskellige målgrupper.
 			||Hvor vigtigt er at have det rigtige strategi, når man planlægger en ny kampagne?|Mange virksomheder er i dag på sociale medier, men det er ikke nok udelukkende at være tilstede på de sociale platforme for at nå ud til brugerne.
 			Det kræver en klar strategi for, hvordan man bedst når sin målgruppe med relevant indhold. 
