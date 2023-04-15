@@ -57,6 +57,9 @@
 											Vi ser frem til flere fælles projekter!",
 		"testimonialsSectionFrisoerenMaria" => "Det er altid en fornøjelse at tale sammen med Andreea fra Trepavo, når jeg skal lave grafiske opdateringer på mit visuelle brand.
 												Hun kommer altid ikke kun med værdifuldt input, nye ideer og flotte resultater, men også med positiv indstilling og godt humør.",
+		"testimonialsSectionLetVikar" => "Vi har lært Trepavo at kende da vi skulle lave vores nye hjemmeside. Det hele gik over forventningerne, problemfrit og uden
+											de vanskeligheder, som man plejer at møde når man skal implementere den slags projekter. Oven i købet kommer de altid i udviklingsprocessen
+											med ideer og forslag, så projektet ikke bare bliver forsinket eller går helt i stå. Vi kan varmt anbefale dem!",
 		
 		"ctaSectionTitle" => "Vi leverer de bedste kundeoplevelser",
 		

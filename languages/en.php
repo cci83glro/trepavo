@@ -57,6 +57,9 @@
 											target group and expectations, when we have to implement new SoMe campaigns. We are looking forward to more common projects!",
 		"testimonialsSectionFrisoerenMaria" => "It is always a pleasure to talk to Andreea from Trepavo, when I have to do graphical changes to my brand.
 												She comes always not only with valueable input, new ideas and beautiful results, but also positive attitude and good mood.",
+		"testimonialsSectionLetVikar" => "We got to know Trepavo when we had to make our new website. The results exceeded our expectations, and everything went without the usual 
+											problems and difficulties that can arise when such projects have to be implemented. Moreover they came all the time in the development 
+											process with ideas and suggestions, such that the project won't be delayed unnecessary og stopped altogether. We can warmly recommend them!",
 											
 		"ctaSectionTitle" => "We’re delivering the best customer experiences",
 		

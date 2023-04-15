@@ -24,8 +24,9 @@
                     </div>
                     <div class="testimonials-section__carousel owl-theme owl-carousel">
                         <?php include_once "partials/about/testimonial-item-vestmaegler.php"?>
-                        <?php include_once "partials/about/testimonial-item-centrumfoto.php"?>
                         <?php include_once "partials/about/testimonial-item-frisoeren-maria.php"?>
+                        <?php include_once "partials/about/testimonial-item-letvikar.php"?>
+                        <?php include_once "partials/about/testimonial-item-centrumfoto.php"?>
                     </div>
                 </div>
             </div>
