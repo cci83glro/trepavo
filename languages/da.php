@@ -80,7 +80,7 @@
 		"serviceDetailGraphicDesignText" => 
 			"I vores optik betyder at bygge et brands identitet meget mere end at levere grafiske løsninger. 
 			Derfor er det essentielt for os at forstå din forretningsprofil og målgruppe, for at kunne skabe tilpasset visuel kommunikation og wrappe budskabet i den rigtige målrettede synlige form.",
-		"serviceDetailGraphicDesignPoints" => "Dit brands identitet||Fokus på detaljer||Fortæl din historie visuelt",
+		//"serviceDetailGraphicDesignPoints" => "Dit brands identitet||Fokus på detaljer||Fortæl din historie visuelt",
 		"serviceDetailGraphicDesignBenefitsTitle" => "Vores tilbud",
 		"serviceDetailGraphicDesignBenefitsText" => "Vi kan tilbyde bl.a. følgende ydelser:",
 		"serviceDetailGraphicDesignBenefitList" => "Fotografering og videooptagelse||Redigering af billeder og videoer||Avanceret grafisk manipulation||Stockfoto i forskellige formater",
@@ -94,7 +94,7 @@
 			"Vi synes, at en hjemmeside er meget mere end bare virksomhedens online tilstedeværelse. Det er derfor vi, hos Trepavo, bruger passende lang tid til at forstå nøglefakta om
 			vores kunder såsom deres forretningsmodel, deres målgrupper og ikke mindst hvad er det primære formål, hjemmesiden skal udfylde. Dette skaber værdi både for os, vores kunder 
 			og deres kunder, og etablerer på samme tid også en stærk base til gensidig tillid og langtids samarbejde.",
-		"serviceDetailWebDesignPoints" => "Søgemaskineroptimering||Teknisk robusthed",
+		//"serviceDetailWebDesignPoints" => "Søgemaskineroptimering||Teknisk robusthed",
 		"serviceDetailWebDesignBenefitsTitle" => "How we create value",
 		"serviceDetailWebDesignBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
@@ -113,9 +113,9 @@
 			
 		"serviceDetailSeoAnalyticsText" => 
 			"Vi tilbyder komplete data-drevet løsninger til SEO og analytics, som dækker alt fra opsætningen af Google Analytics og Tag Manager til monitorering, rapportering og løbende optimering evt. gennem betalte Google Ads markedsføring kampagner.",
-		"serviceDetailSoMeMarketingPoints" => "Søgemaskineroptimering||Teknisk robusthed",
-		"serviceDetailSoMeMarketingBenefitsTitle" => "How we create value",
-		"serviceDetailSoMeMarketingBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
+		//"serviceDetailSoMeMarketingPoints" => "Søgemaskineroptimering||Teknisk robusthed",
+		"serviceDetailSeoAnalyticsBenefitsTitle" => "How we create value",
+		"serviceDetailSeoAnalyticsBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSeoAnalyticsBenefitList" => "Trend- og målgruppeanalyse||Besøger vs konverteringer",
 		"serviceDetailSeoAnalyticsFaq" =>
 			"Hvordan kommer man højere oppe i Google søgning?|Man bliver nødt til også at kigge på hjemmesiden fra Google's perspektiv. 
@@ -131,7 +131,7 @@
 			"Gennem tiden har vi oplevet ret hyppigt, at der er mange virksomheder, som ikke udnytter det fulde potentiale af det guldgrube, som deres følgere på sociale media danner.
 			Det kan være at der mangler det krævede kendskab til de vigtigste værktøjer, som hjælper til push-marketing, eller der mangler en del forståelse for hvordan man kan måle og analysere SoMe resultaterne rigtigt.
 			Og det kan vi godt forstå, for det kræver erfaring og god forståelse af målgruppene for at ramme plet, når man skal ud med et nyt markedsføring tiltag.",
-		"serviceDetailSoMeMarketingPoints" => "Søgemaskineroptimering||Teknisk robusthed",
+		//"serviceDetailSoMeMarketingPoints" => "Søgemaskineroptimering||Teknisk robusthed",
 		"serviceDetailSoMeMarketingBenefitsTitle" => "How we create value",
 		"serviceDetailSoMeMarketingBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSoMeMarketingBenefitList" => "Målgruppe-tilpasset kommunikering||Data drevet analytics",

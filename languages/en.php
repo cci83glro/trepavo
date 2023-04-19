@@ -81,7 +81,7 @@
 			"According to our vision, building a brand identity is much more than just creating the graphical elements.
 			This is why for us it is essential to start with understanding our customers' business profile and target groups, in order to be able to
 			create focused visual communication and wrap the message in the format that appeals best to the target audience.",
-		"serviceDetailGraphicDesignPoints" => "Your brand's identity||Focus on details||Tell your story visually",
+		//"serviceDetailGraphicDesignPoints" => "Your brand's identity||Focus on details||Tell your story visually",
 		"serviceDetailGraphicDesignBenefitsTitle" => "How we create value",
 		"serviceDetailGraphicDesignBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailGraphicDesignBenefitList" => "Photography and video sessions||Photo and video editing||Advanced graphical manipulation||Stock photo in different formats",
@@ -118,7 +118,7 @@
 		"serviceDetailSeoAnalyticsText" => 
 			"We offer integrated data-driven solutions for SEO and Analytics, which cover the entire cycle from setting Google Analytics and Tag Manager
 			to monitoring, reporting and eventually continuous optimization, eventually through paid Google Ads marketing campaigns.",
-		"serviceDetailSeoAnalyticsPoints" => "SEO optimization||Technical robustness||Customer friendly",
+		//"serviceDetailSeoAnalyticsPoints" => "SEO optimization||Technical robustness||Customer friendly",
 		"serviceDetailSeoAnalyticsBenefitsTitle" => "How we create value",
 		"serviceDetailSeoAnalyticsBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSeoAnalyticsBenefitList" => "Trend and target groups analysis||Visits vs convertions",
@@ -136,7 +136,7 @@
 			"During the time we have encountered many examples of companies, which do not exploit the full potential of the gold mine represented by their socal media followers.
 			This is because there is usually not enough knowledge of the most important tools, which help implementing the push-marketing campaigns, or misunderstanding about how SoMe results should be measured and interpreted correctly.
 			And we can easily understand these difficulties, as some experience and a good understanding of the target groups is needed, in order to implement a successful marketing campaign.",
-		"serviceDetailSoMeMarketingPoints" => "SEO optimization||Technical robustness||Customer friendly",
+		//"serviceDetailSoMeMarketingPoints" => "SEO optimization||Technical robustness||Customer friendly",
 		"serviceDetailSoMeMarketingBenefitsTitle" => "How we create value",
 		"serviceDetailSoMeMarketingBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailSoMeMarketingBenefitList" => "Målgruppe-tilpasset kommunikering||Data drevet analytics",
