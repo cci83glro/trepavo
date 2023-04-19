@@ -4,5 +4,5 @@
     $service_id = "WebDesign";
     $service_detail_image_alt = "Innovative web design";
 
-    include "service-details-template.php";
+    include "partials/service-details-template.php";
 ?>

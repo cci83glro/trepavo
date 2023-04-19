@@ -5,13 +5,13 @@
     <h3 class="service-details__title"><?=$lang["ourServices" . $service_id . "NoBr"];?></h3>
     <p class="service-details__text"><?=$lang["serviceDetail" . $service_id . "Text"];?></p>
 </div>
-<ul class="service-details__points list-unstyled">
-    <?php
-        foreach (explode("||", $lang["serviceDetail" . $service_id . "Points"]) as $point_text) {
-            include "service-details-point-template.php";
-        }
-    ?>
-</ul>
+
+<?php
+    if(isset($lang["serviceDetail" . $service_id . "Points"])) {
+        include_once "service-details-points.php";
+    }    
+?>
+
 <div class="service-details__benefits">
     <div class="row">
         <div class="col-xl-6">

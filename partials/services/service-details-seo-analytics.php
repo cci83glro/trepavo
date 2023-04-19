@@ -14,5 +14,5 @@
     //$service_detail_benefit_list = $lang["serviceDetail" . $service_id . "BenefitList"];
     //$service_detail_faq = $lang["serviceDetail" . $service_id . "Faq"];
 
-    include "service-details-template.php";
+    include "partials/service-details-template.php";
 ?>

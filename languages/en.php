@@ -98,7 +98,7 @@
 			"We think that a website is much more than the simple online presence of a company. This is why we, at Trepavo, take our time to 
 			understand key features about our clients like the business model, the target audience and what the main purpose of their website should be.
 			This creates value for both us, our customers and their customers, and establishes in the same time a solid base for mutual trust and long term collaboration.",
-		"serviceDetailWebDesignPoints" => "SEO optimization||Technical robustness||Customer friendly",
+		//"serviceDetailWebDesignPoints" => "SEO optimization||Technical robustness||Customer friendly",
 		"serviceDetailWebDesignBenefitsTitle" => "How we create value",
 		"serviceDetailWebDesignBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
 		"serviceDetailWebDesignBenefitList" => "EN - Benefit webdes 1||EN - Benefit webdes 2||EN - Benefit webdes 3",

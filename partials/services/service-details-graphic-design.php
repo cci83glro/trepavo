@@ -5,5 +5,5 @@
 
     $service_detail_image_alt = "Graphic design and technology";
     
-    include "service-details-template.php";
+    include "partials/service-details-template.php";
 ?>
