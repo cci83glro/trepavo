@@ -12,6 +12,8 @@
 		"address" => "Adresse",
 		"all" => "Alle",
 		"letsTalk" => "Lad os tale sammen!",
+		"callUs" => "Ring til os!",
+		"wantToHearMore" => "Vil du<br/>høre mere?",
 		"readMore" => "Læs mere",
 		"discoverMore" => "Opdag mere",
 		"letsGetStarted" => "Lad os gå i gang!",

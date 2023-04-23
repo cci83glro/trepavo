@@ -23,11 +23,11 @@ if (array_key_exists('email', $_POST)) {
 		$uploadfile = tempnam(sys_get_temp_dir(), hash('sha256', $_FILES['userfile']['name'])) . '.' . $ext;
 
 		if (move_uploaded_file($_FILES['userfile']['tmp_name'], $uploadfile)) {
-			if (!$mail->addAttachment($uploadfile, 'Vedhæftet_fil')) {
+			if (!$mail->addAttachment($uploadfile, 'Attachment')) {
 				$file_ok = false;
 				$response = [
 					"status" => false,
-					"message" => 'Kunne ikke vedhæfte filen ' . $_FILES['userfile']['name']
+					"message" => 'Could not attach the file ' . $_FILES['userfile']['name']
 				];
 			}
 		}

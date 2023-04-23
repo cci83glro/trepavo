@@ -48,22 +48,24 @@
                         <div class="col-xl-5 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                             <div class="footer-widget__column footer-widget__newsletter">
                                 <h3 class="footer-widget__title">Newsletter</h3>
-                                <form class="footer-widget__newsletter-form">
+                                <form id="newsletter-form" action="newsletter.php" class="footer-widget__newsletter-form">
                                     <div class="footer-widget__newsletter-input-box">
-                                        <input type="email" placeholder="Email address" name="email">
-                                        <button type="submit" class="footer-widget__newsletter-btn">
+                                        <input type="email" placeholder="Email address" id="newsletter-email" name="newsletter-email">
+                                        <button id="subscribe-to-newsletter" class="footer-widget__newsletter-btn">
                                             <i class="far fa-paper-plane"></i>
                                         </button>
                                     </div>
+    
+                                    <div class="footer-widget__newsletter-bottom">
+                                        <div class="footer-widget__newsletter-bottom-icon">
+                                            <i class="fa fa-check"></i>
+                                        </div>
+                                        <div class="footer-widget__newsletter-bottom-text">
+                                            <p>I agree to all your terms and policies</p>
+                                        </div>
+                                    </div>
                                 </form>
-                                <div class="footer-widget__newsletter-bottom">
-                                    <div class="footer-widget__newsletter-bottom-icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="footer-widget__newsletter-bottom-text">
-                                        <p>I agree to all your terms and policies</p>
-                                    </div>
-                                </div>
+                                <p id="newsletter-form-success-message">Thank you, you are now subscribed to our newsletter!</p>
                             </div>
                         </div>
                     </div>

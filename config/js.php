@@ -23,3 +23,4 @@
 <!-- template js -->
 <script src="assets/js/main.js"></script>
 <script src="assets/js/cookies.js"></script>
+<script src="assets/js/newsletter.js"></script>

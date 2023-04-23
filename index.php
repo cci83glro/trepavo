@@ -13,5 +13,6 @@
     include_once "partials/index/section-brand-slider.php";
     include_once "partials/index/section-call-to-action.php";
     include_once "partials/contact/section-google-maps.php";
+
     include_once "footer.php";
 ?>

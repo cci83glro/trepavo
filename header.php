@@ -27,7 +27,7 @@
         <nav class="main-menu clearfix">
             <div class="main-menu-wrapper">
                 <div class="main-menu-wrapper__logo">
-                    <a href="<?=$index_link;?>"><img src="assets/images/resources/logo-1.png" alt="Logo Trepavo Creative Agency"></a>
+                    <a href="<?=$index_link;?>"><img src="assets/images/logo-1.png" alt="Logo Trepavo Creative Agency"></a>
                 </div>
                 <div class="main-menu-wrapper__main-menu">
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>

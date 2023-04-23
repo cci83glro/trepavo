@@ -50,10 +50,10 @@
                         <div class="service-details__need-help-icon">
                             <span class="icon-phone-call"></span>
                         </div>
-                        <h2 class="service-details__need-help-title">Best Quality <br> services</h2>
+                        <h2 class="service-details__need-help-title"><?=$lang["wantToHearMore"];?></h2>
                         <div class="service-details__need-help-contact">
-                            <p>Call us Anytime</p>
-                            <a href="tel:926668880000">+ 92 666 888 0000</a>
+                            <p><?=$lang["callUs"];?></p>
+                            <a href="tel:004560543077">+ 45 6054 3077</a>
                         </div>
                     </div>
                 </div>

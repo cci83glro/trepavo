@@ -12,6 +12,8 @@
 		"address" => "Address",
 		"all" => "All",
 		"letsTalk" => "Lat's talk!",
+		"callUs" => "Call us!",
+		"wantToHearMore" => "Want to<br/>hear more?",
 		"readMore" => "Read more",
 		"discoverMore" => "Discover more",
 		"letsGetStarted" => "Let's get started!",
