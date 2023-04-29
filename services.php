@@ -15,7 +15,7 @@
             <div class="col-xl-4 col-lg-5">
                 <div class="service-details__sidebar">
                     <div class="service-details__sidebar-service">
-                        <h4 class="service-details__sidebar-title">Categories</h4>
+                        <h4 class="service-details__sidebar-title"><?=$lang["categories"];?></h4>
                         <ul id="services-list-filter" class="service-details__sidebar-service-list list-unstyled">
                             <li>
                                 <a class="service-detail-link" href="service-details-graphic-design.php">

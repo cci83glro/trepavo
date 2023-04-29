@@ -13,6 +13,7 @@
 		"all" => "Alle",
 		"letsTalk" => "Lad os tale sammen!",
 		"callUs" => "Ring til os!",
+		"categories" => "Kategorier",
 		"wantToHearMore" => "Vil du<br/>høre mere?",
 		"readMore" => "Læs mere",
 		"discoverMore" => "Opdag mere",
@@ -98,8 +99,8 @@
 			og deres kunder, og etablerer på samme tid også en stærk base til gensidig tillid og langtids samarbejde.",
 		//"serviceDetailWebDesignPoints" => "Søgemaskineroptimering||Teknisk robusthed",
 		"serviceDetailWebDesignBenefitsTitle" => "How we create value",
-		"serviceDetailWebDesignBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
-		"serviceDetailWebDesignBenefitList" => "DA - Benefit webdes 1||DA - Benefit webdes 2||DA - Benefit webdes 3",
+		"serviceDetailWebDesignBenefitsText" => "We offer a wide range og services you can use, when building your website:",
+		"serviceDetailWebDesignBenefitList" => "Avanceret UI / UX||HTML, CSS og JavaScript||CMS support (Wordpress, Umbraco)||Integrering med eksisterende systemer",
 		"serviceDetailWebDesignFaq" =>
 			"Hvor vigtig er en god hjemmeside?|Lang de fleste kunder kommer ikke længere ind i butikken ad den fysiske dør, men verden er blevet meget mere digitaliseret. 
 			Og i de fleste tilfælde er hjemmesiden det første, de potentielle kunder oplever, når de skal finde deres næste butik, leverandør eller samarbejdspartner.

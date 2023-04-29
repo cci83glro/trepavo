@@ -112,7 +112,7 @@
 <?php 
     include_once "partials/contact/section-google-maps.php";
 
-    $custom_js = array("'assets/js/contact.js'");
+    $custom_js = array("'assets/js/contact.min.js'");
     include_once "footer.php";
 ?>
   

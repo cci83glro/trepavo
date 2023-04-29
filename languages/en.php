@@ -13,6 +13,7 @@
 		"all" => "All",
 		"letsTalk" => "Lat's talk!",
 		"callUs" => "Call us!",
+		"categories" => "Categories",
 		"wantToHearMore" => "Want to<br/>hear more?",
 		"readMore" => "Read more",
 		"discoverMore" => "Discover more",
@@ -103,13 +104,13 @@
 		//"serviceDetailWebDesignPoints" => "SEO optimization||Technical robustness||Customer friendly",
 		"serviceDetailWebDesignBenefitsTitle" => "How we create value",
 		"serviceDetailWebDesignBenefitsText" => "We offer a wide range og services you can use, when building your brand identity:",
-		"serviceDetailWebDesignBenefitList" => "EN - Benefit webdes 1||EN - Benefit webdes 2||EN - Benefit webdes 3",
+		"serviceDetailWebDesignBenefitList" => "Advanced UI / UX||HTML, CSS and JavaScript||CMS support (Wordpress, Umbraco)||Integration with existing systems",
 		"serviceDetailWebDesignFaq" =>
 			"How important is a good website?|The vast majority of customers don't come in contact with your company using the pfysical main door anymore, as nowadays we are living in a highly digitalized world.
 			And in most cases, the website is the first thing they experience, when the are looking after an online webshop, their next supplier or business partner.
 			The statistical data shows for instance that, when a website takes more than 3 seconds to load, the users are navigating away from it with much higher probability.
 			The same happens to the portals with usability defficiencies, functionality errors, downtimes or the ones which do not fit the target group. 
-			All these elements influence the conversion rate negatively.
+			All these elements have a negative influence on the conversion rate.
 			||Can I self control how my website looks like?|Our clients get the opportunity to influence both the structure and the content of their new site or mobile app.
 			In the design phase we are working in close contact with the customers, incorporating constant feedback in order to do the necessary adjustment in time.
 			We also provide CMS (Content Management Systems) solutions that allow the customers to fully control the online content of their platform, both before and after deployment.
