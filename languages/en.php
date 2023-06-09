@@ -11,7 +11,7 @@
 		"contact" => "Contact",
 		"address" => "Address",
 		"all" => "All",
-		"letsTalk" => "Lat's talk!",
+		"letsTalk" => "Let's talk!",
 		"callUs" => "Call us!",
 		"categories" => "Categories",
 		"wantToHearMore" => "Want to<br/>hear more?",
@@ -20,8 +20,8 @@
 		"letsGetStarted" => "Let's get started!",
 		
 		"slide1Title" => "Dedicated to <br/>brands with <br/>attitude",
-		"slide2Title" => "The creative minds<br/>behind your brand",
-		"slide3Title" => "We build<br/>Your Brand<br/>Together",
+		"slide2Title" => "The creative minds <br/>behind your brand",
+		"slide3Title" => "We build <br/>Your Brand <br/>Together",
 		
 		"ourApproachSectionExperienceTitle" => "<span>Our customers'</span> success<br> becomes our success",
 		"ourApproachSectionTitleTagline" => "Our approach",
